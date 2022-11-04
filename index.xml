@@ -362,7 +362,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-497162853&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-287316945&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -372,7 +372,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-497162853&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-287316945&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -896,6 +896,24 @@ $$&lt;/p&gt;
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://gfolino.github.io/publication/dblp-confgecco-folino-ppsh-19/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://gfolino.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://gfolino.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://gfolino.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://gfolino.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
