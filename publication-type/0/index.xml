@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Gianluigi Folino</title>
+    <link>https://gfolino.github.io/publication-type/0/</link>
+      <atom:link href="https://gfolino.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gfolino.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://gfolino.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Proceedings of the 3rd Workshop on Biologically Inspired Algorithms for Distributed Systems, BADS &#39;11, Karlsruhe, Germany, June 14, 2011</title>
+      <link>https://gfolino.github.io/publication/dblp-conficac-2011-bads/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficac-2011-bads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 2nd Workshop on Bio-Inspired Algorithms for Distributed Systems, BADS &#39;10, Washington, DC, USA, June 11, 2010</title>
+      <link>https://gfolino.github.io/publication/dblp-conficac-2010-bads/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficac-2010-bads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 2009 workshop on Bio-inspired algorithms for distributed systems, BADS@ICAC 2009, Barcelona, Spain, June 19, 2009</title>
+      <link>https://gfolino.github.io/publication/dblp-conficac-2009-bads/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficac-2009-bads/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

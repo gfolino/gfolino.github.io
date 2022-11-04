@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Gianluigi Folino</title>
+    <link>https://gfolino.github.io/publication/</link>
+      <atom:link href="https://gfolino.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gfolino.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://gfolino.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Machine Learning Approach for Rainfall Estimation Integrating Heterogeneous Data Sources</title>
+      <link>https://gfolino.github.io/publication/dblp-journalstgrs-guarascio-fcgps-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalstgrs-guarascio-fcgps-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Architecture Exploiting Elastic Stack and Meta Ensemble of Classifiers for Profiling User Behaviour</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-folino-gp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-folino-gp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Active Learning and Fast DNN Ensembles for Process Deviance Discovery</title>
+      <link>https://gfolino.github.io/publication/dblp-confismis-folino-fgp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confismis-folino-fgp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining deep ensemble learning and explanation for intelligent ticket management</title>
+      <link>https://gfolino.github.io/publication/dblp-journalseswa-zicari-fgp-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalseswa-zicari-fgp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering accurate deep learning based predictive models for automatic customer support ticket classification</title>
+      <link>https://gfolino.github.io/publication/dblp-confsac-zicari-fgp-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confsac-zicari-fgp-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On learning effective ensembles of deep neural networks for intrusion detection</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsinffus-folino-fgpp-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsinffus-folino-fgpp-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDCOR: Scalable density-based clustering for local outlier detection in massive-scale datasets</title>
+      <link>https://gfolino.github.io/publication/dblp-journalskbs-naghavi-nozad-hf-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalskbs-naghavi-nozad-hf-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GP-based ensemble classification framework for time-changing streams of intrusion detection data</title>
+      <link>https://gfolino.github.io/publication/dblp-journalssoco-folino-pp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalssoco-folino-pp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-view Ensemble of Deep Models for the Detection of Deviant Process Instances</title>
+      <link>https://gfolino.github.io/publication/dblp-confpkdd-folino-fgp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpkdd-folino-fgp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A p2p environment to validate ensemble-based approaches in the cybersecurity domain</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-folino-fp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-folino-fp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDCOR: Scalable Density-based Clustering for Local Outlier Detection in Massive-Scale Datasets</title>
+      <link>https://gfolino.github.io/publication/dblp-journalscorrabs-2006-07616/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalscorrabs-2006-07616/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Deep Learning and Data Integration for Accurate Rainfall Estimates</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsercim-folino-gcg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsercim-folino-gcg-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://gfolino.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Cybersecurity Framework for Classifying Non Stationary Data Streams Exploiting Genetic Programming and Ensemble Learning</title>
+      <link>https://gfolino.github.io/publication/dblp-confnumta-folino-pp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confnumta-folino-pp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning based architecture for rainfall estimation integrating heterogeneous data sources</title>
+      <link>https://gfolino.github.io/publication/dblp-confijcnn-folino-gcg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confijcnn-folino-gcg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning on Big Data</title>
+      <link>https://gfolino.github.io/publication/dblp-referencebdt-folino-gh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-referencebdt-folino-gh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting fractal dimension and a distributed evolutionary approach to classify data streams with concept drifts</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsasc-folino-gp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsasc-folino-gp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Effective Neural Nets for Outcome Prediction from Partially Labelled Log Data</title>
+      <link>https://gfolino.github.io/publication/dblp-confictai-folino-fgp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confictai-folino-fgp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using genetic programming for combining an ensemble of local and global outlier algorithms to detect new attacks</title>
+      <link>https://gfolino.github.io/publication/dblp-confgecco-folino-ppsh-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confgecco-folino-ppsh-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ensemble-Based P2P Framework for the Detection of Deviant Business Process Instances</title>
+      <link>https://gfolino.github.io/publication/dblp-confieeehpcs-folino-fp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confieeehpcs-folino-fp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special issue on evolutionary multi-objective optimization and applications in big data</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsasc-folino-t-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsasc-folino-t-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Peer-to-Peer Architecture for Detecting Attacks from Network Traffic and Log Data</title>
+      <link>https://gfolino.github.io/publication/dblp-confieeehpcs-folino-fps-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confieeehpcs-folino-fps-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Software Architecture for Classifying Users in E-payment Systems</title>
+      <link>https://gfolino.github.io/publication/dblp-confitasec-folino-p-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confitasec-folino-p-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Execution of Cellular Automata through Space Partitioning: The Landslide Simulation Sciddicas3-Hex Case Study</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-giordano-rsdmfs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-giordano-rsdmfs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical genetic programming for symbolic regression</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsasc-haeri-ef-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsasc-haeri-ef-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed Intrusion Detection Framework Based on Evolved Specialized Ensembles of Classifiers</title>
+      <link>https://gfolino.github.io/publication/dblp-confevo-w-folino-ps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confevo-w-folino-ps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Intrusion Detection in Distributed Environments: An Ensemble-Based Approach</title>
+      <link>https://gfolino.github.io/publication/dblp-confsebd-cuzzocrea-fs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confsebd-cuzzocrea-fs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Incremental Ensemble Evolved by using Genetic Programming to Efficiently Detect Drifts in Cyber Security Datasets</title>
+      <link>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble based collaborative and distributed intrusion detection systems: A survey</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsjnca-folino-s-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsjnca-folino-s-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving meta-ensemble of classifiers for handling incomplete and unbalanced datasets in the cyber security domain</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsasc-folino-p-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsasc-folino-p-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://gfolino.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A distributed framework for supporting adaptive ensemble-based intrusion detection</title>
+      <link>https://gfolino.github.io/publication/dblp-confbigdataconf-cuzzocrea-fs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confbigdataconf-cuzzocrea-fs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Ensemble of Classifiers by Using Genetic Programming for Cyber Security Applications</title>
+      <link>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving GP generalization: a variance-based layered learning approach</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsgpem-haeri-ef-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsgpem-haeri-ef-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies for Parallelizing Swarm Intelligence Algorithms</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-cicirelli-ffgms-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-cicirelli-ffgms-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic offloading of mobile applications into the cloud by means of genetic programming</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsasc-folino-p-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsasc-folino-p-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient discovery of data mining services over DHT-based overlays</title>
+      <link>https://gfolino.github.io/publication/dblp-confhpcs-folino-pt-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confhpcs-folino-pt-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the Offloading of Different Types of Mobile Applications by Using Evolutionary Algorithms</title>
+      <link>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Bayesian networks for selecting classifiers in GP ensembles</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsisci-stefano-fff-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsisci-stefano-fff-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://gfolino.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Framework for Modeling Automatic Offloading of Mobile Applications Using Genetic Programming</title>
+      <link>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Offloading of Mobile Applications Using Evolutionary Algorithms</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsercim-folino-p-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsercim-folino-p-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preface: nature inspired solutions for high performance computing</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsnc-folino-mm-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsnc-folino-mm-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning GP-Based Classifier Ensembles by Bayesian Networks</title>
+      <link>https://gfolino.github.io/publication/dblp-confppsn-stefano-fff-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confppsn-stefano-fff-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Combining Ensembles of GP Classifiers</title>
+      <link>https://gfolino.github.io/publication/dblp-confmcs-stefano-fff-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confmcs-stefano-fff-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTR: taxonomic annotation of short metagenomic reads using clustering at multiple taxonomic ranks</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsbioinformatics-gori-fjm-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsbioinformatics-gori-fjm-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 3rd Workshop on Biologically Inspired Algorithms for Distributed Systems, BADS &#39;11, Karlsruhe, Germany, June 14, 2011</title>
+      <link>https://gfolino.github.io/publication/dblp-conficac-2011-bads/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficac-2011-bads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Issue: Bio-Inspired Optimization Techniques for High Performance Computing</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsngc-folino-m-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsngc-folino-m-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using bayesian networks for selecting classifiers in GP ensembles</title>
+      <link>https://gfolino.github.io/publication/dblp-confgecco-stefano-fff-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confgecco-stefano-fff-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A grid portal for solving geoscience problems using distributed knowledge discovery services</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-fps-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-fps-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ensemble-based evolutionary framework for coping with distributed intrusion detection</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsgpem-folino-ps-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsgpem-folino-ps-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling Different Categories of Concept Drifts in Data Streams Using Distributed GP</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-p-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-p-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Scalability of Multi-Criteria Protein Structure Comparison in the Grid</title>
+      <link>https://gfolino.github.io/publication/dblp-confeuropar-folino-sk-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeuropar-folino-sk-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 2nd Workshop on Bio-Inspired Algorithms for Distributed Systems, BADS &#39;10, Washington, DC, USA, June 11, 2010</title>
+      <link>https://gfolino.github.io/publication/dblp-conficac-2010-bads/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficac-2010-bads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special section: Bio-inspired algorithms for distributed systems</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-m-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-m-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Entropy for Evaluating Swarm Intelligence Algorithms</title>
+      <link>https://gfolino.github.io/publication/dblp-confnicso-folino-f-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confnicso-folino-f-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive flocking algorithm for performing approximate clustering</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsisci-folino-fs-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsisci-folino-fs-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Metagenome Short Reads Using Weighted Proteins</title>
+      <link>https://gfolino.github.io/publication/dblp-confevo-w-folino-gjm-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confevo-w-folino-gjm-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence-Based Clustering of Reads and Taxonomic Analysis of Metagenomic Data</title>
+      <link>https://gfolino.github.io/publication/dblp-confprib-folino-gjm-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confprib-folino-gjm-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the storage, management and analysis of (multi) similarity for large scale protein structure datasets in the grid</title>
+      <link>https://gfolino.github.io/publication/dblp-confcbms-folino-sk-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confcbms-folino-sk-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 2009 workshop on Bio-inspired algorithms for distributed systems, BADS@ICAC 2009, Barcelona, Spain, June 19, 2009</title>
+      <link>https://gfolino.github.io/publication/dblp-conficac-2009-bads/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficac-2009-bads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A grid-based architecture for nearest neighbor based condensation of huge datasets</title>
+      <link>https://gfolino.github.io/publication/dblp-confhpdc-angiulli-f-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confhpdc-angiulli-f-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of Protein Structure Comparison Algorithms Under Integrated Resource Management Environment for MPI Jobs</title>
+      <link>https://gfolino.github.io/publication/dblp-confispa-shah-bfk-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confispa-shah-bfk-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Distributed GP Ensemble With a Selective Algorithm Based on Clustering and Pruning for Pattern Classification</title>
+      <link>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Distributed Ensemble Approach to Mine Concept-Drifting Data Streams</title>
+      <link>https://gfolino.github.io/publication/dblp-confictai-folino-ps-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confictai-folino-ps-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An autonomic tool for building self-organizing Grid-enabled applications</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-s-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-s-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content-based mining for solving geoprocessing problems on grids</title>
+      <link>https://gfolino.github.io/publication/dblp-confhpdc-folino-fps-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confhpdc-folino-fps-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Nearest Neighbor-Based Condensation of Very Large Data Sets</title>
+      <link>https://gfolino.github.io/publication/dblp-journalstkde-angiulli-f-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalstkde-angiulli-f-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Distributed Data Condensation for Nearest Neighbor Classification</title>
+      <link>https://gfolino.github.io/publication/dblp-confeuropar-angiulli-f-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeuropar-angiulli-f-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Distributed Evolving Data Streams Using Fractal GP Ensembles</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StreamGP: tracking evolving GP ensembles in distributed data streams using fractal dimension</title>
+      <link>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Jxta Based Asynchronous Peer-to-Peer Implementation of Genetic Programming</title>
+      <link>https://gfolino.github.io/publication/dblp-journalsjsw-folino-fs-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalsjsw-folino-fs-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model based on cellular automata for the parallel simulation of 3D unsaturated flow</title>
+      <link>https://gfolino.github.io/publication/dblp-journalspc-folino-msss-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalspc-folino-msss-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multidimensional flocking algorithm for clustering spatial data</title>
+      <link>https://gfolino.github.io/publication/dblp-confwoa-augimeri-ffs-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confwoa-augimeri-ffs-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GP ensembles for large-scale data classification</title>
+      <link>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving cooperative GP ensemble with clustering and pruning for pattern classification</title>
+      <link>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-CAGE: An Environment for Evolutionary Computation in Peer-to-Peer Systems</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-s-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-s-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Autonomic Middleware for Grid-Enabled Self-Organizing Applications</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdcn-folino-s-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdcn-folino-s-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAMELotGrid: A Grid-based PSE for Autonomic Cellular Applications</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-folino-s-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-folino-s-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GP Ensemble for Distributed Intrusion Detection Systems</title>
+      <link>https://gfolino.github.io/publication/dblp-conficapr-folino-ps-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-conficapr-folino-ps-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swarm-Based Distributed Clustering in Peer-to-Peer Systems</title>
+      <link>https://gfolino.github.io/publication/dblp-confae-folino-fs-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confae-folino-fs-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swarming Agents for Decentralized Clustering in Spatial Data</title>
+      <link>https://gfolino.github.io/publication/dblp-referencecrc-folino-sf-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-referencecrc-folino-sf-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Architecture for Grid-Based PSE Toolkits</title>
+      <link>https://gfolino.github.io/publication/dblp-confpara-cannataro-ccfmpstv-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpara-cannataro-ccfmpstv-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Technique for Combining Cellular GP Classifiers</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scalable cellular implementation of parallel genetic programming</title>
+      <link>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Clusters in Spatial Data Using Swarm Intelligence</title>
+      <link>https://gfolino.github.io/publication/dblp-confecal-folino-fs-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confecal-folino-fs-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity analysis in cellular and multipopulation genetic programming</title>
+      <link>https://gfolino.github.io/publication/dblp-confcec-folino-psvt-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confcec-folino-psvt-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Techniques for Parallel Genetic Programming Based Classifiers</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPARROW: A Spatial Clustering Algorithm using Swarm Intelligence</title>
+      <link>https://gfolino.github.io/publication/dblp-confappinf-folino-s-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confappinf-folino-s-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swarming Agents for Discovering Clusters in Spatial Data</title>
+      <link>https://gfolino.github.io/publication/dblp-confispdc-folino-fs-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confispdc-folino-fs-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Flocking Algorithm for Spatial Clustering</title>
+      <link>https://gfolino.github.io/publication/dblp-confppsn-folino-s-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confppsn-folino-s-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Induction Decision Trees with Parallel Genetic Programming</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-folino-ps-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-folino-ps-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAGE: A Tool for Parallel Genetic Programming Applications</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Genetic Programming for Decision Tree Induction</title>
+      <link>https://gfolino.github.io/publication/dblp-confictai-folino-ps-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confictai-folino-ps-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel hybrid method for SAT that couples genetic algorithms and local search</title>
+      <link>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictability of Cellular Programs Implemented with CAMELot</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-folino-s-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-folino-s-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CELLAR: a high level cellular programming language with regions</title>
+      <link>https://gfolino.github.io/publication/dblp-confpdp-folino-s-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpdp-folino-s-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming and Simulated Annealing: A Hybrid Method to Evolve Decision Trees</title>
+      <link>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalability Analysis and Performance Prediction for Cellular Programs on Parallel Computers</title>
+      <link>https://gfolino.github.io/publication/dblp-confacri-folino-s-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confacri-folino-s-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cellular environment for steering high performance scientific applications</title>
+      <link>https://gfolino.github.io/publication/dblp-confparco-folino-s-99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confparco-folino-s-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cellular Genetic Programming Approach to Classification</title>
+      <link>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining cellular genetic algorithms and local search for solving satisfiability problems</title>
+      <link>https://gfolino.github.io/publication/dblp-confictai-folino-ps-98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confictai-folino-ps-98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating and Modeling Communication Overhead of MPI Primitives on the Meiko CS-2</title>
+      <link>https://gfolino.github.io/publication/dblp-confpvm-folino-st-98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confpvm-folino-st-98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation and Modeling of MPI Communications on the Meiko CS-2</title>
+      <link>https://gfolino.github.io/publication/dblp-confhpcn-folino-st-98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confhpcn-folino-st-98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the Satisfiability Problem by a Parallel Celluar Genetic Algorithm</title>
+      <link>https://gfolino.github.io/publication/dblp-confeuromicro-folino-ps-98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://gfolino.github.io/publication/dblp-confeuromicro-folino-ps-98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
