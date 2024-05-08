@@ -2,547 +2,576 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gfolino.github.io/talk/example-talk/</loc>
+    <loc>http://localhost:1313/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-fpsp-24/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication-type/1/</loc>
-    <lastmod>2022-11-04T15:46:45+01:00</lastmod>
+    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication-type/2/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalstgrs-guarascio-fcgps-22/</loc>
-    <lastmod>2022-11-04T15:46:29+01:00</lastmod>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-folino-gp-22/</loc>
-    <lastmod>2022-11-04T15:46:29+01:00</lastmod>
+    <loc>http://localhost:1313/post/blog-with-jupyter/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confismis-folino-fgp-22/</loc>
-    <lastmod>2022-11-04T15:46:29+01:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalseswa-zicari-fgp-22/</loc>
-    <lastmod>2022-11-04T15:46:28+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalstjs-folino-gp-23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication_types/</loc>
-    <lastmod>2022-11-04T15:46:45+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsercim-folino-0-pz-23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/</loc>
-    <lastmod>2022-11-04T15:46:45+01:00</lastmod>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confsac-zicari-fgp-21/</loc>
-    <lastmod>2022-11-04T15:46:29+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confital-ia-coppolillo-cmrfp-23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsinffus-folino-fgpp-21/</loc>
-    <lastmod>2022-11-04T15:46:29+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-conficeis-zicari-gpf-23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalskbs-naghavi-nozad-hf-21/</loc>
-    <lastmod>2022-11-04T15:46:29+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsnca-folino-gc-23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/academic/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/old_index/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-journalstgrs-guarascio-fcgps-22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-gp-22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-confismis-folino-fgp-22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-journalseswa-zicari-fgp-22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-journalsbise-folino-fgp-22/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-confsac-zicari-fgp-21/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-journalsinffus-folino-fgpp-21/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-journalskbs-naghavi-nozad-hf-21/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/category/demo/</loc>
+    <loc>http://localhost:1313/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/post/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tags/</loc>
+    <loc>http://localhost:1313/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/post/getting-started/</loc>
+    <loc>http://localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalssoco-folino-pp-20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpkdd-folino-fgp-20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-fp-20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalscorrabs-2006-07616/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsercim-folino-gcg-20/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalssoco-folino-pp-20/</loc>
-    <lastmod>2022-11-04T15:46:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpkdd-folino-fgp-20/</loc>
-    <lastmod>2022-11-04T15:46:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-folino-fp-20/</loc>
-    <lastmod>2022-11-04T15:46:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalscorrabs-2006-07616/</loc>
-    <lastmod>2022-11-04T15:46:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsercim-folino-gcg-20/</loc>
-    <lastmod>2022-11-04T15:46:30+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gfolino.github.io/post/writing-technical-content/</loc>
+    <loc>http://localhost:1313/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/slides/</loc>
+    <loc>http://localhost:1313/publication-type/article/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/slides/example/</loc>
+    <loc>http://localhost:1313/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication-type/6/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confnumta-folino-pp-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confnumta-folino-pp-19/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confijcnn-folino-gcg-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confijcnn-folino-gcg-19/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication-type/chapter/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-referencebdt-folino-gh-19/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-referencebdt-folino-gh-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsasc-folino-gp-19/</loc>
-    <lastmod>2022-11-04T15:46:30+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsasc-folino-gp-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confictai-folino-fgp-19/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confictai-folino-fgp-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confgecco-folino-ppsh-19/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confgecco-folino-ppsh-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/privacy/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/terms/</loc>
+    <loc>http://localhost:1313/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confieeehpcs-folino-fp-18/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confieeehpcs-folino-fp-18/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsasc-folino-t-18/</loc>
-    <lastmod>2022-11-04T15:46:31+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsasc-folino-t-18/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confieeehpcs-folino-fps-17/</loc>
-    <lastmod>2022-11-04T15:46:32+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confieeehpcs-folino-fps-17/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confitasec-folino-p-17/</loc>
-    <lastmod>2022-11-04T15:46:32+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confitasec-folino-p-17/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-giordano-rsdmfs-17/</loc>
-    <lastmod>2022-11-04T15:46:32+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-giordano-rsdmfs-17/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsasc-haeri-ef-17/</loc>
-    <lastmod>2022-11-04T15:46:32+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsasc-haeri-ef-17/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/tag/demo/</loc>
+    <loc>http://localhost:1313/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/project/example/</loc>
+    <loc>http://localhost:1313/project_old/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/project/external-project/</loc>
+    <loc>http://localhost:1313/project_old/external-project/old_index/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/project/</loc>
+    <loc>http://localhost:1313/project_old/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confevo-w-folino-ps-16/</loc>
-    <lastmod>2022-11-04T15:46:33+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confevo-w-folino-ps-16/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confsebd-cuzzocrea-fs-16/</loc>
-    <lastmod>2022-11-04T15:46:33+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confsebd-cuzzocrea-fs-16/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-16/</loc>
-    <lastmod>2022-11-04T15:46:33+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confgecco-folino-ps-16/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsjnca-folino-s-16/</loc>
-    <lastmod>2022-11-04T15:46:32+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsjnca-folino-s-16/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsasc-folino-p-16/</loc>
-    <lastmod>2022-11-04T15:46:32+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsasc-folino-p-16/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confbigdataconf-cuzzocrea-fs-15/</loc>
-    <lastmod>2022-11-04T15:46:33+01:00</lastmod>
+    <loc>http://localhost:1313/publication/old-journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-15/</loc>
-    <lastmod>2022-11-04T15:46:33+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confbigdataconf-cuzzocrea-fs-15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsgpem-haeri-ef-15/</loc>
-    <lastmod>2022-11-04T15:46:33+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confevo-w-folino-p-15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-cicirelli-ffgms-15/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsgpem-haeri-ef-15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsasc-folino-p-14/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-cicirelli-ffgms-15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confhpcs-folino-pt-14/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsasc-folino-p-14/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-14/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confhpcs-folino-pt-14/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsisci-stefano-fff-14/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confevo-w-folino-p-14/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confevo-w-folino-p-13/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsisci-stefano-fff-14/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsercim-folino-p-13/</loc>
-    <lastmod>2022-11-04T15:46:35+01:00</lastmod>
+    <loc>http://localhost:1313/publication/old-conference-paper/old_index/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsnc-folino-mm-13/</loc>
-    <lastmod>2022-11-04T15:46:34+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confevo-w-folino-p-13/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confppsn-stefano-fff-12/</loc>
-    <lastmod>2022-11-04T15:46:35+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsercim-folino-p-13/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication-type/0/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsnc-folino-mm-13/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confmcs-stefano-fff-11/</loc>
-    <lastmod>2022-11-04T15:46:35+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confppsn-stefano-fff-12/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsbioinformatics-gori-fjm-11/</loc>
-    <lastmod>2022-11-04T15:46:35+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confmcs-stefano-fff-11/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-conficac-2011-bads/</loc>
-    <lastmod>2022-11-04T15:46:36+01:00</lastmod>
+    <loc>http://localhost:1313/publication-type/book/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsngc-folino-m-11/</loc>
-    <lastmod>2022-11-04T15:46:35+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsbioinformatics-gori-fjm-11/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confgecco-stefano-fff-11/</loc>
-    <lastmod>2022-11-04T15:46:35+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-conficac-2011-bads/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-fps-10/</loc>
-    <lastmod>2022-11-04T15:46:36+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsngc-folino-m-11/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsgpem-folino-ps-10/</loc>
-    <lastmod>2022-11-04T15:46:36+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confgecco-stefano-fff-11/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-p-10/</loc>
-    <lastmod>2022-11-04T15:46:36+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsfgcs-folino-fps-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeuropar-folino-sk-10/</loc>
-    <lastmod>2022-11-04T15:46:36+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsgpem-folino-ps-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-conficac-2010-bads/</loc>
-    <lastmod>2022-11-04T15:46:37+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-p-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-m-10/</loc>
-    <lastmod>2022-11-04T15:46:36+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeuropar-folino-sk-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confnicso-folino-f-10/</loc>
-    <lastmod>2022-11-04T15:46:37+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-conficac-2010-bads/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsisci-folino-fs-09/</loc>
-    <lastmod>2022-11-04T15:46:37+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsfgcs-folino-m-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confevo-w-folino-gjm-09/</loc>
-    <lastmod>2022-11-04T15:46:37+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confnicso-folino-f-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confprib-folino-gjm-09/</loc>
-    <lastmod>2022-11-04T15:46:37+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsisci-folino-fs-09/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confcbms-folino-sk-09/</loc>
-    <lastmod>2022-11-04T15:46:37+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confevo-w-folino-gjm-09/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-conficac-2009-bads/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confprib-folino-gjm-09/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confhpdc-angiulli-f-08/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confcbms-folino-sk-09/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confispa-shah-bfk-08/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-conficac-2009-bads/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-08/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confhpdc-angiulli-f-08/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confictai-folino-ps-07/</loc>
-    <lastmod>2022-11-04T15:46:39+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confispa-shah-bfk-08/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsfgcs-folino-s-07/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalstec-folino-ps-08/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confhpdc-folino-fps-07/</loc>
-    <lastmod>2022-11-04T15:46:39+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confictai-folino-ps-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalstkde-angiulli-f-07/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsfgcs-folino-s-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeuropar-angiulli-f-07/</loc>
-    <lastmod>2022-11-04T15:46:39+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confhpdc-folino-fps-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-07/</loc>
-    <lastmod>2022-11-04T15:46:38+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalstkde-angiulli-f-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-07/</loc>
-    <lastmod>2022-11-04T15:46:39+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeuropar-angiulli-f-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalsjsw-folino-fs-06/</loc>
-    <lastmod>2022-11-04T15:46:39+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-ps-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalspc-folino-msss-06/</loc>
-    <lastmod>2022-11-04T15:46:39+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confgecco-folino-ps-07/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confwoa-augimeri-ffs-06/</loc>
-    <lastmod>2022-11-04T15:46:40+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalsjsw-folino-fs-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-06/</loc>
-    <lastmod>2022-11-04T15:46:40+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalspc-folino-msss-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-06/</loc>
-    <lastmod>2022-11-04T15:46:40+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confwoa-augimeri-ffs-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-s-06/</loc>
-    <lastmod>2022-11-04T15:46:40+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalstec-folino-ps-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdcn-folino-s-05/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confgecco-folino-ps-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-folino-s-05/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-s-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-conficapr-folino-ps-05/</loc>
-    <lastmod>2022-11-04T15:46:40+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdcn-folino-s-05/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confae-folino-fs-05/</loc>
-    <lastmod>2022-11-04T15:46:40+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-s-05/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-referencecrc-folino-sf-05/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-conficapr-folino-ps-05/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpara-cannataro-ccfmpstv-04/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confae-folino-fs-05/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-04/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-referencecrc-folino-sf-05/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-03/</loc>
-    <lastmod>2022-11-04T15:46:41+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpara-cannataro-ccfmpstv-04/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confecal-folino-fs-03/</loc>
-    <lastmod>2022-11-04T15:46:42+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-ps-04/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confcec-folino-psvt-03/</loc>
-    <lastmod>2022-11-04T15:46:42+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalstec-folino-ps-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-03/</loc>
-    <lastmod>2022-11-04T15:46:42+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confecal-folino-fs-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confappinf-folino-s-03/</loc>
-    <lastmod>2022-11-04T15:46:42+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confcec-folino-psvt-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confispdc-folino-fs-03/</loc>
-    <lastmod>2022-11-04T15:46:42+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-ps-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confppsn-folino-s-02/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confappinf-folino-s-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-folino-ps-02/</loc>
-    <lastmod>2022-11-04T15:46:42+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confispdc-folino-fs-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-01/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confppsn-folino-s-02/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confictai-folino-ps-01/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-ps-02/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-journalstec-folino-ps-01/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-ps-01/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-folino-s-01/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confictai-folino-ps-01/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpdp-folino-s-00/</loc>
-    <lastmod>2022-11-04T15:46:44+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-journalstec-folino-ps-01/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeurogp-folino-ps-00/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-s-01/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confacri-folino-s-00/</loc>
-    <lastmod>2022-11-04T15:46:43+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpdp-folino-s-00/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confparco-folino-s-99/</loc>
-    <lastmod>2022-11-04T15:46:44+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confeurogp-folino-ps-00/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confgecco-folino-ps-99/</loc>
-    <lastmod>2022-11-04T15:46:44+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confacri-folino-s-00/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confictai-folino-ps-98/</loc>
-    <lastmod>2022-11-04T15:46:45+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confparco-folino-s-99/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confpvm-folino-st-98/</loc>
-    <lastmod>2022-11-04T15:46:45+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confgecco-folino-ps-99/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confhpcn-folino-st-98/</loc>
-    <lastmod>2022-11-04T15:46:44+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confictai-folino-ps-98/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/publication/dblp-confeuromicro-folino-ps-98/</loc>
-    <lastmod>2022-11-04T15:46:44+01:00</lastmod>
+    <loc>http://localhost:1313/publication/dblp-confpvm-folino-st-98/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gfolino.github.io/admin/</loc>
+    <loc>http://localhost:1313/publication/dblp-confhpcn-folino-st-98/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/dblp-confeuromicro-folino-ps-98/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
