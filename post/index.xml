@@ -5,12 +5,111 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Ambienti di Programmazione e Programmazione Mobile</title>
+      <link>http://localhost:1313/post/courses/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/courses/</guid>
+      <description>&lt;h2 id=&#34;obiettivi-del-corso&#34;&gt;OBIETTIVI DEL CORSO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apprendere appieno l’utilizzo dei sistemi operativi basati su Unix (Linux in particolare)  e i principali linguaggi di scripting.&lt;/li&gt;
+&lt;li&gt;Apprendere la programmazione mobile su Android con l’ausilio del linguaggio Kotlin&lt;/li&gt;
+&lt;li&gt;Al termine del corso conoscerete Linux e sia dal punto di vista utente che con delle basi da amministratore e a progettare applicazioni Android&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programma&#34;&gt;Programma&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Storia dei sistemi Unix e Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I Desktop e le distribuzioni Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il file system di Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gestione dei processi e della memoria in Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La redirezione dell’input/output e le pipe.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comandi principali e programmazione shell base e avanzata&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L’ Amministrazione del sistema&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ambienti di Programmazione sotto Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il Linguaggio C, differenze con Java, i tipi di base, i puntatori, le struct, le funzioni, ecc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Installazione  e manutenzione Linux (Debian/Ubuntu, Gentoo)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduzione al mondo Mobile, ad Android e all&amp;rsquo;IDE Android Studio&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cenni della programmazione in Kotlin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Location based systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Activity and Activity Lifecycle&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explicit and Implicit intents&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Layout, widget and GUI&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sensors and System services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Location and Google Map Services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tag and NFC&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;materiale-didattico&#34;&gt;Materiale Didattico&lt;/h2&gt;
+&lt;h3 id=&#34;libri-di-testo-parte-linux&#34;&gt;Libri di Testo (parte Linux)&lt;/h3&gt;
+&lt;p&gt;Linux Documentation Project, &lt;a href=&#34;http://sunsite.unc.edu/linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sunsite.unc.edu/linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Guida completa Linux&amp;rdquo; - Peterson, MC Graw Hill.&lt;/p&gt;
+&lt;p&gt;The First Line of Code: Android Programming with Kotlin&lt;/p&gt;
+&lt;h5 id=&#34;in-italiano&#34;&gt;In italiano:&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pluto.it/ildp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/&lt;/a&gt;    Materiale Linux in italiano&lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/guide.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/guide.html&lt;/a&gt;    tutte le guide&lt;/p&gt;
+&lt;h3 id=&#34;libri-di-testo-parte-android&#34;&gt;Libri di Testo (parte Android)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://developer.android.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Android Developer&lt;/a&gt;, sito web di riferimento dei realizzatori di Android &lt;br&gt;
+Massimo Carli, Android 9, Apogeo &lt;br&gt;
+The First Line of Code Android Programming with Kotlin Springer (May 27, 2022) \&lt;/p&gt;
+&lt;h3 id=&#34;altro-materiale-didattico&#34;&gt;Altro materiale didattico&lt;/h3&gt;
+&lt;p&gt;Lucidi delle lezioni e Dispense integrative, sulla pagina Teams del corso&lt;/p&gt;
+&lt;h3 id=&#34;consigliati-e-approfondimenti-sul-c&#34;&gt;Consigliati e Approfondimenti sul C&lt;/h3&gt;
+&lt;p&gt;Kernighan and Ritchie, C Programming Language (la base) &lt;br&gt;
+Stephen Prata, C Primer Plus (molto completo)  &lt;br&gt;
+&lt;a href=&#34;http://c.learncodethehardway.org/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://c.learncodethehardway.org/book/&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cslibrary.stanford.edu/101/EssentialC.pdf&lt;/a&gt;  (bignami) &lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
@@ -243,7 +342,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-832756914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-852413796&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +352,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-832756914&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-852413796&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
