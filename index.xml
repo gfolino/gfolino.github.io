@@ -34,19 +34,11 @@
     
     <item>
       <title>A Scalable Vertical Federated Learning Framework for Analytics in the Cybersecurity Domain</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-fpsp-24/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-fpsp-24/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Scalable Vertical Federated Learning Framework for Analytics in the Cybersecurity Domain</title>
       <link>http://localhost:1313/publication/folino-2024245/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2024245/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,7 +46,8 @@
       <link>http://localhost:1313/publication/folino-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2024/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -106,26 +99,9 @@
     
     <item>
       <title>An ensemble-based framework for user behaviour anomaly detection and classification for cybersecurity</title>
-      <link>http://localhost:1313/publication/dblp-journalstjs-folino-gp-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstjs-folino-gp-23/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An ensemble-based framework for user behaviour anomaly detection and classification for cybersecurity</title>
       <link>http://localhost:1313/publication/folino-202311660/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-202311660/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Explainable Deep Ensemble Framework for Intelligent Ticket Management</title>
-      <link>http://localhost:1313/publication/dblp-journalsercim-folino-0-pz-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsercim-folino-0-pz-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -135,23 +111,6 @@
       <link>http://localhost:1313/publication/coppolillo-2023443/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/coppolillo-2023443/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fighting Misinformation, Radicalization and Bias in Social Media</title>
-      <link>http://localhost:1313/publication/dblp-confital-ia-coppolillo-cmrfp-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confital-ia-coppolillo-cmrfp-23/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning Deep Fake-News Detectors from Scarcely-Labelled News Corpora</title>
-      <link>http://localhost:1313/publication/dblp-conficeis-zicari-gpf-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conficeis-zicari-gpf-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -161,14 +120,6 @@
       <link>http://localhost:1313/publication/zicari-2023344/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zicari-2023344/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning ensembles of deep neural networks for extreme rainfall event detection</title>
-      <link>http://localhost:1313/publication/dblp-journalsnca-folino-gc-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsnca-folino-gc-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -178,7 +129,8 @@
       <link>http://localhost:1313/publication/folino-202310347/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-202310347/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -191,26 +143,9 @@
     
     <item>
       <title>A Machine Learning Approach for Rainfall Estimation Integrating Heterogeneous Data Sources</title>
-      <link>http://localhost:1313/publication/dblp-journalstgrs-guarascio-fcgps-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstgrs-guarascio-fcgps-22/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Machine Learning Approach for Rainfall Estimation Integrating Heterogeneous Data Sources</title>
       <link>http://localhost:1313/publication/guarascio-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/guarascio-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable Architecture Exploiting Elastic Stack and Meta Ensemble of Classifiers for Profiling User Behaviour</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-gp-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-gp-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -220,23 +155,6 @@
       <link>http://localhost:1313/publication/folino-2022189/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2022189/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable Ensemble-based Framework to Analyse Users? Digital Footprints for Cybersecurity</title>
-      <link>http://localhost:1313/publication/dblp-journalsercim-folino-pg-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsercim-folino-pg-22/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Combining Active Learning and Fast DNN Ensembles for Process Deviance Discovery</title>
-      <link>http://localhost:1313/publication/dblp-confismis-folino-fgp-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confismis-folino-fgp-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -246,14 +164,6 @@
       <link>http://localhost:1313/publication/folino-2022346/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2022346/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining deep ensemble learning and explanation for intelligent ticket management</title>
-      <link>http://localhost:1313/publication/dblp-journalseswa-zicari-fgp-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalseswa-zicari-fgp-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -263,14 +173,6 @@
       <link>http://localhost:1313/publication/zicari-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zicari-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-Supervised Discovery of DNN-Based Outcome Predictors from Scarcely-Labeled Process Logs</title>
-      <link>http://localhost:1313/publication/dblp-journalsbise-folino-fgp-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsbise-folino-fgp-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -280,14 +182,6 @@
       <link>http://localhost:1313/publication/folino-2022729/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2022729/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovering accurate deep learning based predictive models for automatic customer support ticket classification</title>
-      <link>http://localhost:1313/publication/dblp-confsac-zicari-fgp-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confsac-zicari-fgp-21/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -297,14 +191,6 @@
       <link>http://localhost:1313/publication/zicari-20211098/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zicari-20211098/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On learning effective ensembles of deep neural networks for intrusion detection</title>
-      <link>http://localhost:1313/publication/dblp-journalsinffus-folino-fgpp-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsinffus-folino-fgpp-21/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -314,14 +200,6 @@
       <link>http://localhost:1313/publication/folino-202148/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-202148/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDCOR: Scalable density-based clustering for local outlier detection in massive-scale datasets</title>
-      <link>http://localhost:1313/publication/dblp-journalskbs-naghavi-nozad-hf-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalskbs-naghavi-nozad-hf-21/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -411,14 +289,6 @@
       <link>http://localhost:1313/publication/folino-2020269/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2020269/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A GP-based ensemble classification framework for time-changing streams of intrusion detection data</title>
-      <link>http://localhost:1313/publication/dblp-journalssoco-folino-pp-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalssoco-folino-pp-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -428,14 +298,6 @@
       <link>http://localhost:1313/publication/folino-202017541/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-202017541/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Multi-view Ensemble of Deep Models for the Detection of Deviant Process Instances</title>
-      <link>http://localhost:1313/publication/dblp-confpkdd-folino-fgp-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpkdd-folino-fgp-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -445,14 +307,6 @@
       <link>http://localhost:1313/publication/folino-2020249/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2020249/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A p2p environment to validate ensemble-based approaches in the cybersecurity domain</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-fp-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-fp-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -462,23 +316,6 @@
       <link>http://localhost:1313/publication/folino-2020344/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2020344/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDCOR: Scalable Density-based Clustering for Local Outlier Detection in Massive-Scale Datasets</title>
-      <link>http://localhost:1313/publication/dblp-journalscorrabs-2006-07616/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalscorrabs-2006-07616/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Deep Learning and Data Integration for Accurate Rainfall Estimates</title>
-      <link>http://localhost:1313/publication/dblp-journalsercim-folino-gcg-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsercim-folino-gcg-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -587,7 +424,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-348251697&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-678935214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -597,7 +434,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-348251697&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-678935214&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1003,45 +840,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>A Cybersecurity Framework for Classifying Non Stationary Data Streams Exploiting Genetic Programming and Ensemble Learning</title>
-      <link>http://localhost:1313/publication/dblp-confnumta-folino-pp-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confnumta-folino-pp-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Deep Learning based architecture for rainfall estimation integrating heterogeneous data sources</title>
-      <link>http://localhost:1313/publication/dblp-confijcnn-folino-gcg-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confijcnn-folino-gcg-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A Deep Learning based architecture for rainfall estimation integrating heterogeneous data sources</title>
       <link>http://localhost:1313/publication/folino-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning on Big Data</title>
-      <link>http://localhost:1313/publication/dblp-referencebdt-folino-gh-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-referencebdt-folino-gh-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exploiting fractal dimension and a distributed evolutionary approach to classify data streams with concept drifts</title>
-      <link>http://localhost:1313/publication/dblp-journalsasc-folino-gp-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsasc-folino-gp-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1051,7 +853,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2019284/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2019284/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1059,23 +862,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-20191396/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-20191396/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Effective Neural Nets for Outcome Prediction from Partially Labelled Log Data</title>
-      <link>http://localhost:1313/publication/dblp-confictai-folino-fgp-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confictai-folino-fgp-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using genetic programming for combining an ensemble of local and global outlier algorithms to detect new attacks</title>
-      <link>http://localhost:1313/publication/dblp-confgecco-folino-ppsh-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confgecco-folino-ppsh-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1085,7 +871,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2019167/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2019167/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1111,23 +898,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2018122/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2018122/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Ensemble-Based P2P Framework for the Detection of Deviant Business Process Instances</title>
-      <link>http://localhost:1313/publication/dblp-confieeehpcs-folino-fp-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confieeehpcs-folino-fp-18/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Special issue on evolutionary multi-objective optimization and applications in big data</title>
-      <link>http://localhost:1313/publication/dblp-journalsasc-folino-t-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsasc-folino-t-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1137,7 +907,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2018816/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2018816/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1145,14 +916,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2017769/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2017769/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Peer-to-Peer Architecture for Detecting Attacks from Network Traffic and Log Data</title>
-      <link>http://localhost:1313/publication/dblp-confieeehpcs-folino-fps-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confieeehpcs-folino-fps-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1162,23 +925,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201776/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201776/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Software Architecture for Classifying Users in E-payment Systems</title>
-      <link>http://localhost:1313/publication/dblp-confitasec-folino-p-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confitasec-folino-p-17/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallel Execution of Cellular Automata through Space Partitioning: The Landslide Simulation Sciddicas3-Hex Case Study</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-giordano-rsdmfs-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-giordano-rsdmfs-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1188,14 +934,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/giordano-2017505/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/giordano-2017505/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical genetic programming for symbolic regression</title>
-      <link>http://localhost:1313/publication/dblp-journalsasc-haeri-ef-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsasc-haeri-ef-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1226,14 +964,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2016315/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2016315/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Distributed Intrusion Detection Framework Based on Evolved Specialized Ensembles of Classifiers</title>
-      <link>http://localhost:1313/publication/dblp-confevo-w-folino-ps-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confevo-w-folino-ps-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1243,14 +973,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/cuzzocrea-2016230/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/cuzzocrea-2016230/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptive Intrusion Detection in Distributed Environments: An Ensemble-Based Approach</title>
-      <link>http://localhost:1313/publication/dblp-confsebd-cuzzocrea-fs-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confsebd-cuzzocrea-fs-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1260,23 +982,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-20161103/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-20161103/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Incremental Ensemble Evolved by using Genetic Programming to Efficiently Detect Drifts in Cyber Security Datasets</title>
-      <link>http://localhost:1313/publication/dblp-confgecco-folino-ps-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confgecco-folino-ps-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ensemble based collaborative and distributed intrusion detection systems: A survey</title>
-      <link>http://localhost:1313/publication/dblp-journalsjnca-folino-s-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsjnca-folino-s-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1286,14 +991,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-20161/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-20161/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolving meta-ensemble of classifiers for handling incomplete and unbalanced datasets in the cyber security domain</title>
-      <link>http://localhost:1313/publication/dblp-journalsasc-folino-p-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsasc-folino-p-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1303,7 +1000,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2016179/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2016179/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1311,7 +1009,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2016/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1319,14 +1018,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/cuzzocrea-20151910/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/cuzzocrea-20151910/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A distributed framework for supporting adaptive ensemble-based intrusion detection</title>
-      <link>http://localhost:1313/publication/dblp-confbigdataconf-cuzzocrea-fs-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confbigdataconf-cuzzocrea-fs-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1336,23 +1027,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201554/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201554/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining Ensemble of Classifiers by Using Genetic Programming for Cyber Security Applications</title>
-      <link>http://localhost:1313/publication/dblp-confevo-w-folino-p-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confevo-w-folino-p-15/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Improving GP generalization: a variance-based layered learning approach</title>
-      <link>http://localhost:1313/publication/dblp-journalsgpem-haeri-ef-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsgpem-haeri-ef-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1362,23 +1036,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/cicirelli-2015329/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/cicirelli-2015329/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strategies for Parallelizing Swarm Intelligence Algorithms</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-cicirelli-ffgms-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-cicirelli-ffgms-15/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automatic offloading of mobile applications into the cloud by means of genetic programming</title>
-      <link>http://localhost:1313/publication/dblp-journalsasc-folino-p-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsasc-folino-p-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1388,14 +1045,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2014253/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2014253/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient discovery of data mining services over DHT-based overlays</title>
-      <link>http://localhost:1313/publication/dblp-confhpcs-folino-pt-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confhpcs-folino-pt-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1405,7 +1054,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2014484/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2014484/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1413,14 +1063,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201486/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201486/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the Offloading of Different Types of Mobile Applications by Using Evolutionary Algorithms</title>
-      <link>http://localhost:1313/publication/dblp-confevo-w-folino-p-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confevo-w-folino-p-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1430,14 +1072,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/haeri-201437/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/haeri-201437/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Bayesian networks for selecting classifiers in GP ensembles</title>
-      <link>http://localhost:1313/publication/dblp-journalsisci-stefano-fff-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsisci-stefano-fff-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1447,23 +1081,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201362/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201362/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Framework for Modeling Automatic Offloading of Mobile Applications Using Genetic Programming</title>
-      <link>http://localhost:1313/publication/dblp-confevo-w-folino-p-13/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confevo-w-folino-p-13/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automatic Offloading of Mobile Applications Using Evolutionary Algorithms</title>
-      <link>http://localhost:1313/publication/dblp-journalsercim-folino-p-13/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsercim-folino-p-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1473,14 +1090,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/gori-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gori-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preface: nature inspired solutions for high performance computing</title>
-      <link>http://localhost:1313/publication/dblp-journalsnc-folino-mm-13/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsnc-folino-mm-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1490,14 +1099,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201327/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201327/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pruning GP-Based Classifier Ensembles by Bayesian Networks</title>
-      <link>http://localhost:1313/publication/dblp-confppsn-stefano-fff-12/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confppsn-stefano-fff-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1507,23 +1108,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2011-iii/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2011-iii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Bayesian Approach for Combining Ensembles of GP Classifiers</title>
-      <link>http://localhost:1313/publication/dblp-confmcs-stefano-fff-11/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confmcs-stefano-fff-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MTR: taxonomic annotation of short metagenomic reads using clustering at multiple taxonomic ranks</title>
-      <link>http://localhost:1313/publication/dblp-journalsbioinformatics-gori-fjm-11/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsbioinformatics-gori-fjm-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1533,7 +1117,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/gori-2011196/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gori-2011196/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1541,14 +1126,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2011193/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2011193/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of the 3rd Workshop on Biologically Inspired Algorithms for Distributed Systems, BADS &#39;11, Karlsruhe, Germany, June 14, 2011</title>
-      <link>http://localhost:1313/publication/dblp-conficac-2011-bads/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conficac-2011-bads/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1558,32 +1135,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2011125/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2011125/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Special Issue: Bio-Inspired Optimization Techniques for High Performance Computing</title>
-      <link>http://localhost:1313/publication/dblp-journalsngc-folino-m-11/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsngc-folino-m-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using bayesian networks for selecting classifiers in GP ensembles</title>
-      <link>http://localhost:1313/publication/dblp-confgecco-stefano-fff-11/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confgecco-stefano-fff-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A grid portal for solving geoscience problems using distributed knowledge discovery services</title>
-      <link>http://localhost:1313/publication/dblp-journalsfgcs-folino-fps-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsfgcs-folino-fps-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1593,14 +1144,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201087/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201087/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An ensemble-based evolutionary framework for coping with distributed intrusion detection</title>
-      <link>http://localhost:1313/publication/dblp-journalsgpem-folino-ps-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsgpem-folino-ps-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1610,7 +1153,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2010131/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2010131/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1618,23 +1162,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-201074/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-201074/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Handling Different Categories of Concept Drifts in Data Streams Using Distributed GP</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-p-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-p-10/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the Scalability of Multi-Criteria Protein Structure Comparison in the Grid</title>
-      <link>http://localhost:1313/publication/dblp-confeuropar-folino-sk-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeuropar-folino-sk-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1644,23 +1171,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2010-iii/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2010-iii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of the 2nd Workshop on Bio-Inspired Algorithms for Distributed Systems, BADS &#39;10, Washington, DC, USA, June 11, 2010</title>
-      <link>http://localhost:1313/publication/dblp-conficac-2010-bads/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conficac-2010-bads/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Special section: Bio-inspired algorithms for distributed systems</title>
-      <link>http://localhost:1313/publication/dblp-journalsfgcs-folino-m-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsfgcs-folino-m-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1670,7 +1180,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2010835/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2010835/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1678,7 +1189,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/shah-2010144/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/shah-2010144/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1686,23 +1198,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2010331/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2010331/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Entropy for Evaluating Swarm Intelligence Algorithms</title>
-      <link>http://localhost:1313/publication/dblp-confnicso-folino-f-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confnicso-folino-f-10/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An adaptive flocking algorithm for performing approximate clustering</title>
-      <link>http://localhost:1313/publication/dblp-journalsisci-folino-fs-09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsisci-folino-fs-09/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1712,7 +1207,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-20093059/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-20093059/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1720,14 +1216,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2009152/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2009152/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering Metagenome Short Reads Using Weighted Proteins</title>
-      <link>http://localhost:1313/publication/dblp-confevo-w-folino-gjm-09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confevo-w-folino-gjm-09/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1737,7 +1225,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2009120/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2009120/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1745,23 +1234,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2009102/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2009102/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evidence-Based Clustering of Reads and Taxonomic Analysis of Metagenomic Data</title>
-      <link>http://localhost:1313/publication/dblp-confprib-folino-gjm-09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confprib-folino-gjm-09/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the storage, management and analysis of (multi) similarity for large scale protein structure datasets in the grid</title>
-      <link>http://localhost:1313/publication/dblp-confcbms-folino-sk-09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confcbms-folino-sk-09/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1771,23 +1243,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of the 2009 workshop on Bio-inspired algorithms for distributed systems, BADS@ICAC 2009, Barcelona, Spain, June 19, 2009</title>
-      <link>http://localhost:1313/publication/dblp-conficac-2009-bads/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conficac-2009-bads/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A grid-based architecture for nearest neighbor based condensation of huge datasets</title>
-      <link>http://localhost:1313/publication/dblp-confhpdc-angiulli-f-08/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confhpdc-angiulli-f-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1797,7 +1252,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/angiulli-200813/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/angiulli-200813/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1805,14 +1261,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/shah-2008817/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/shah-2008817/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance Evaluation of Protein Structure Comparison Algorithms Under Integrated Resource Management Environment for MPI Jobs</title>
-      <link>http://localhost:1313/publication/dblp-confispa-shah-bfk-08/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confispa-shah-bfk-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1822,14 +1270,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2008458/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2008458/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training Distributed GP Ensemble With a Selective Algorithm Based on Clustering and Pruning for Pattern Classification</title>
-      <link>http://localhost:1313/publication/dblp-journalstec-folino-ps-08/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstec-folino-ps-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1839,23 +1279,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2007183/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2007183/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Adaptive Distributed Ensemble Approach to Mine Concept-Drifting Data Streams</title>
-      <link>http://localhost:1313/publication/dblp-confictai-folino-ps-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confictai-folino-ps-07/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An autonomic tool for building self-organizing Grid-enabled applications</title>
-      <link>http://localhost:1313/publication/dblp-journalsfgcs-folino-s-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsfgcs-folino-s-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1865,14 +1288,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2007671/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2007671/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Content-based mining for solving geoprocessing problems on grids</title>
-      <link>http://localhost:1313/publication/dblp-confhpdc-folino-fps-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confhpdc-folino-fps-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1882,7 +1297,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200765/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200765/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1890,14 +1306,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/angiulli-20071593/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/angiulli-20071593/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Nearest Neighbor-Based Condensation of Very Large Data Sets</title>
-      <link>http://localhost:1313/publication/dblp-journalstkde-angiulli-f-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstkde-angiulli-f-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1907,14 +1315,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/angiulli-2007338/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/angiulli-2007338/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Distributed Data Condensation for Nearest Neighbor Classification</title>
-      <link>http://localhost:1313/publication/dblp-confeuropar-angiulli-f-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeuropar-angiulli-f-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1924,23 +1324,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2007160/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2007160/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mining Distributed Evolving Data Streams Using Fractal GP Ensembles</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-ps-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-ps-07/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>StreamGP: tracking evolving GP ensembles in distributed data streams using fractal dimension</title>
-      <link>http://localhost:1313/publication/dblp-confgecco-folino-ps-07/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confgecco-folino-ps-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1950,7 +1333,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-20071751/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-20071751/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1958,7 +1342,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/cannataro-2006656/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/cannataro-2006656/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1966,23 +1351,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200612/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200612/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Jxta Based Asynchronous Peer-to-Peer Implementation of Genetic Programming</title>
-      <link>http://localhost:1313/publication/dblp-journalsjsw-folino-fs-06/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalsjsw-folino-fs-06/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A model based on cellular automata for the parallel simulation of 3D unsaturated flow</title>
-      <link>http://localhost:1313/publication/dblp-journalspc-folino-msss-06/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalspc-folino-msss-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -1992,7 +1360,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2006357/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2006357/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2000,23 +1369,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/augimeri-200616/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/augimeri-200616/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A multidimensional flocking algorithm for clustering spatial data</title>
-      <link>http://localhost:1313/publication/dblp-confwoa-augimeri-ffs-06/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confwoa-augimeri-ffs-06/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GP ensembles for large-scale data classification</title>
-      <link>http://localhost:1313/publication/dblp-journalstec-folino-ps-06/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstec-folino-ps-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2026,14 +1378,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2006604/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2006604/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving cooperative GP ensemble with clustering and pruning for pattern classification</title>
-      <link>http://localhost:1313/publication/dblp-confgecco-folino-ps-06/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confgecco-folino-ps-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2043,7 +1387,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2006791/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2006791/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2051,14 +1396,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2006341/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2006341/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P-CAGE: An Environment for Evolutionary Computation in Peer-to-Peer Systems</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-s-06/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-s-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2068,7 +1405,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200637/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200637/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2076,14 +1414,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2005258/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2005258/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Autonomic Middleware for Grid-Enabled Self-Organizing Applications</title>
-      <link>http://localhost:1313/publication/dblp-confpdcn-folino-s-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdcn-folino-s-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2093,14 +1423,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2005206/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2005206/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAMELotGrid: A Grid-based PSE for Autonomic Cellular Applications</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-s-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-s-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2110,14 +1432,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200554/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200554/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GP Ensemble for Distributed Intrusion Detection Systems</title>
-      <link>http://localhost:1313/publication/dblp-conficapr-folino-ps-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-conficapr-folino-ps-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2127,32 +1441,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2005225/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2005225/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swarm-Based Distributed Clustering in Peer-to-Peer Systems</title>
-      <link>http://localhost:1313/publication/dblp-confae-folino-fs-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confae-folino-fs-05/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Swarming Agents for Decentralized Clustering in Spatial Data</title>
-      <link>http://localhost:1313/publication/dblp-referencecrc-folino-sf-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-referencecrc-folino-sf-05/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A General Architecture for Grid-Based PSE Toolkits</title>
-      <link>http://localhost:1313/publication/dblp-confpara-cannataro-ccfmpstv-04/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpara-cannataro-ccfmpstv-04/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2162,23 +1450,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200447/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200447/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boosting Technique for Combining Cellular GP Classifiers</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-ps-04/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-ps-04/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A scalable cellular implementation of parallel genetic programming</title>
-      <link>http://localhost:1313/publication/dblp-journalstec-folino-ps-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstec-folino-ps-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2188,7 +1459,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200337/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200337/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2196,23 +1468,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2003598/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2003598/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovering Clusters in Spatial Data Using Swarm Intelligence</title>
-      <link>http://localhost:1313/publication/dblp-confecal-folino-fs-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confecal-folino-fs-03/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Diversity analysis in cellular and multipopulation genetic programming</title>
-      <link>http://localhost:1313/publication/dblp-confcec-folino-psvt-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confcec-folino-psvt-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2222,7 +1477,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2003305/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2003305/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2230,14 +1486,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200359/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200359/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble Techniques for Parallel Genetic Programming Based Classifiers</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-ps-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-ps-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2247,14 +1495,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200350/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200350/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPARROW: A Spatial Clustering Algorithm using Swarm Intelligence</title>
-      <link>http://localhost:1313/publication/dblp-confappinf-folino-s-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confappinf-folino-s-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2264,14 +1504,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200372/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200372/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swarming Agents for Discovering Clusters in Spatial Data</title>
-      <link>http://localhost:1313/publication/dblp-confispdc-folino-fs-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confispdc-folino-fs-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2281,23 +1513,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2002924/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2002924/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Adaptive Flocking Algorithm for Spatial Clustering</title>
-      <link>http://localhost:1313/publication/dblp-confppsn-folino-s-02/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confppsn-folino-s-02/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Improving Induction Decision Trees with Parallel Genetic Programming</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-ps-02/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-ps-02/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2307,14 +1522,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-200164/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-200164/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAGE: A Tool for Parallel Genetic Programming Applications</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-ps-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-ps-01/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2324,23 +1531,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2001129/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2001129/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Genetic Programming for Decision Tree Induction</title>
-      <link>http://localhost:1313/publication/dblp-confictai-folino-ps-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confictai-folino-ps-01/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallel hybrid method for SAT that couples genetic algorithms and local search</title>
-      <link>http://localhost:1313/publication/dblp-journalstec-folino-ps-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-journalstec-folino-ps-01/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2350,7 +1540,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2001323/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2001323/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2358,31 +1549,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2001468/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2001468/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predictability of Cellular Programs Implemented with CAMELot</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-s-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-s-01/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A critical review of gastroesophageal reflux surgery; [Revisione critica della terapia chirurgica della malattia da reflusso gastro-esofageo]</title>
-      <link>http://localhost:1313/publication/molizzi-2000147/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/molizzi-2000147/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CELLAR: a high level cellular programming language with regions</title>
-      <link>http://localhost:1313/publication/dblp-confpdp-folino-s-00/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpdp-folino-s-00/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2392,7 +1558,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2000259/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2000259/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2400,49 +1567,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2000294/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2000294/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic Programming and Simulated Annealing: A Hybrid Method to Evolve Decision Trees</title>
-      <link>http://localhost:1313/publication/dblp-confeurogp-folino-ps-00/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeurogp-folino-ps-00/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scalability Analysis and Performance Prediction for Cellular Programs on Parallel Computers</title>
-      <link>http://localhost:1313/publication/dblp-confacri-folino-s-00/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confacri-folino-s-00/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Surgical planning and prognosis of malignant skin melanoma; [Programmazione chirurgica e prognosi del melanoma maligno cutaneo]</title>
-      <link>http://localhost:1313/publication/molizzi-200019/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/molizzi-200019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A cellular environment for steering high performance scientific applications</title>
-      <link>http://localhost:1313/publication/dblp-confparco-folino-s-99/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confparco-folino-s-99/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Cellular Genetic Programming Approach to Classification</title>
-      <link>http://localhost:1313/publication/dblp-confgecco-folino-ps-99/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confgecco-folino-ps-99/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2452,14 +1576,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/molizzi-1999351/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/molizzi-1999351/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining cellular genetic algorithms and local search for solving satisfiability problems</title>
-      <link>http://localhost:1313/publication/dblp-confictai-folino-ps-98/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confictai-folino-ps-98/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2469,7 +1585,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-1998192/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-1998192/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2477,14 +1594,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-199827/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-199827/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluating and Modeling Communication Overhead of MPI Primitives on the Meiko CS-2</title>
-      <link>http://localhost:1313/publication/dblp-confpvm-folino-st-98/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confpvm-folino-st-98/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2494,23 +1603,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-1998932/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-1998932/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance Evaluation and Modeling of MPI Communications on the Meiko CS-2</title>
-      <link>http://localhost:1313/publication/dblp-confhpcn-folino-st-98/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confhpcn-folino-st-98/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Solving the Satisfiability Problem by a Parallel Celluar Genetic Algorithm</title>
-      <link>http://localhost:1313/publication/dblp-confeuromicro-folino-ps-98/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dblp-confeuromicro-folino-ps-98/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -2520,7 +1612,8 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-1998715/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-1998715/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
