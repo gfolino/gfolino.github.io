@@ -424,7 +424,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-128946537&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-132458796&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -434,7 +434,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-128946537&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-132458796&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1567,15 +1567,6 @@ $$&lt;/p&gt;
       <link>http://localhost:1313/publication/folino-2000294/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-2000294/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Post-traumatic diaphragmatic hernia. Clinical case; [Ernie diaframmatiche post-traumatiche]</title>
-      <link>http://localhost:1313/publication/molizzi-1999351/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/molizzi-1999351/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
