@@ -93,17 +93,69 @@
 &lt;h3 id=&#34;libri-di-testo-parte-linux&#34;&gt;Libri di Testo (parte Linux)&lt;/h3&gt;
 &lt;p&gt;Linux Documentation Project, &lt;a href=&#34;http://sunsite.unc.edu/linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sunsite.unc.edu/linux&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Guida completa Linux&amp;rdquo; - Peterson, MC Graw Hill.&lt;/p&gt;
-&lt;p&gt;The First Line of Code: Android Programming with Kotlin&lt;/p&gt;
 &lt;h5 id=&#34;in-italiano&#34;&gt;In italiano:&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.pluto.it/ildp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/&lt;/a&gt;    Materiale Linux in italiano&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.truelite.it/amministrare-gnu-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amministrare Gnu Linux&lt;/a&gt;, Simone  Piccardi  &lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/&lt;/a&gt;    Materiale Linux in italiano&lt;br&gt;
 &lt;a href=&#34;http://www.pluto.it/ildp/guide.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/guide.html&lt;/a&gt;    tutte le guide&lt;/p&gt;
 &lt;h3 id=&#34;libri-di-testo-parte-android&#34;&gt;Libri di Testo (parte Android)&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;http://developer.android.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Android Developer&lt;/a&gt;, sito web di riferimento dei realizzatori di Android &lt;br&gt;
 Massimo Carli, Android 9, Apogeo &lt;br&gt;
-The First Line of Code Android Programming with Kotlin Springer (May 27, 2022) \&lt;/p&gt;
+The First Line of Code Android Programming with Kotlin, Springer &lt;/p&gt;
 &lt;h3 id=&#34;altro-materiale-didattico&#34;&gt;Altro materiale didattico&lt;/h3&gt;
 &lt;p&gt;Lucidi delle lezioni e Dispense integrative, sulla pagina Teams del corso&lt;/p&gt;
 &lt;h3 id=&#34;consigliati-e-approfondimenti-sul-c&#34;&gt;Consigliati e Approfondimenti sul C&lt;/h3&gt;
+&lt;p&gt;Kernighan and Ritchie, C Programming Language (la base) &lt;br&gt;
+Stephen Prata, C Primer Plus (molto completo)  &lt;br&gt;
+&lt;a href=&#34;http://c.learncodethehardway.org/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://c.learncodethehardway.org/book/&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cslibrary.stanford.edu/101/EssentialC.pdf&lt;/a&gt;  (bignami) &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ambienti di Programmazione per il Software di base</title>
+      <link>http://localhost:1313/post/courses2/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/courses2/</guid>
+      <description>&lt;h2 id=&#34;obiettivi-del-corso&#34;&gt;OBIETTIVI DEL CORSO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apprendere appieno l’utilizzo dei sistemi operativi basati su Unix (Linux in particolare)  e i principali linguaggi di scripting.&lt;/li&gt;
+&lt;li&gt;Apprendere la programmazione mobile su Android con l’ausilio del linguaggio Kotlin&lt;/li&gt;
+&lt;li&gt;Al termine del corso conoscerete Linux e sia dal punto di vista utente che con delle basi da amministratore e a progettare applicazioni Android&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programma&#34;&gt;Programma&lt;/h2&gt;
+&lt;h3 id=&#34;introduzione-ai-sistemi-operativi-unix-like&#34;&gt;Introduzione ai sistemi operativi Unix-like.&lt;/h3&gt;
+&lt;p&gt;Storia dei sistemi operativi Unix. Richiamo dei concetti di base sul ruolo e sul funzionamento dei sistemi operativi.
+Cenni all&amp;rsquo;architettura dei sistemi operativi monolitici e micro-kernel. I sistemi operativi basati su kernel Linux.
+Le distribuzioni GNU/Linux. La distribuzione Ubuntu.&lt;/p&gt;
+&lt;h3 id=&#34;cenni-alle-problematiche-di-amministrazione-di-sistemi-gnulinux&#34;&gt;Cenni alle problematiche di amministrazione di sistemi GNU/Linux&lt;/h3&gt;
+&lt;p&gt;Installazione e configurazione di una distibuzione GNU/Linux. Installazione e configurazione di applicazioni e servizi locali e di rete.
+Amministrazione remota di Linux. I processi e i demoni. La gestione del file system. Le quote utente.
+I file system condivisi: Samba e NFS. Il boot, il kernel e i moduli.&lt;/p&gt;
+&lt;h3 id=&#34;programmazione-della-shell&#34;&gt;Programmazione della shell&lt;/h3&gt;
+&lt;p&gt;Introduzione all&amp;rsquo;utilizzo della shell BASH. I comandi per la gestione del file-system e dei processi attivi.
+La redirezione dell&amp;rsquo;input/output e le pipe. Programmazione di semplici script di shell. Script per l&amp;rsquo;avvio e l&amp;rsquo;arresto dei servizi.
+Le variabili utente e di sistema. Il file .bashrc. Cicli e istruzioni condizionali. Espressioni regolari&lt;/p&gt;
+&lt;h3 id=&#34;elementi-di-programmazione-in-c&#34;&gt;Elementi di programmazione in C&lt;/h3&gt;
+&lt;p&gt;La sintassi del linguaggio C. Sviluppo di semplici programmi in C. Utilizzo della suite gcc (GNU Compiler Collection).
+I tipi di base. L&amp;rsquo;input/output in C. Le stringhe in C. Utilizzo dei puntatori. Vettori e matrici dinamici in C.
+Le funzioni nel linguaggio C. Semantica del trasferimento del flusso di controllo tra funzioni: funzionamento dello stack,
+record di attivazione, passaggio dei parametri. Realizzazione di librerie statiche e dinamiche. Strutture. Array di strutture. Puntatori a strutture.
+Implementazione di liste con le strutture. Il problema del buffer overflow.&lt;/p&gt;
+&lt;h3 id=&#34;system-call-di-linux&#34;&gt;System call di Linux&lt;/h3&gt;
+&lt;p&gt;Modalità Kernel e modalità Utente. Le system call. I processi in Linux e relative system call (fork, wait, exit, kill, ecc.). System call (brk, mmap, unmap) relative alla memoria. Swapping. Paginazione.&lt;br&gt;
+Il file system di Linux. Implementazione del file system in Linux. Le principali system call per l&amp;rsquo;I/O in Linux.: creat, open, read, write, close, lseek, stat.&lt;/p&gt;
+&lt;h2 id=&#34;materiale-didattico&#34;&gt;Materiale Didattico&lt;/h2&gt;
+&lt;h3 id=&#34;libri-di-testo-e-siti-web&#34;&gt;Libri di Testo e siti Web&lt;/h3&gt;
+&lt;p&gt;Linux Documentation Project, &lt;a href=&#34;http://sunsite.unc.edu/linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sunsite.unc.edu/linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Guida completa Linux&amp;rdquo; - Peterson, MC Graw Hill.&lt;/p&gt;
+&lt;h5 id=&#34;in-italiano&#34;&gt;In italiano:&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.truelite.it/amministrare-gnu-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amministrare Gnu Linux&lt;/a&gt;, Simone  Piccardi  &lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/&lt;/a&gt;    Materiale Linux in italiano&lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/guide.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/guide.html&lt;/a&gt;    tutte le guide&lt;/p&gt;
+&lt;h3 id=&#34;altro-materiale-didattico&#34;&gt;Altro materiale didattico&lt;/h3&gt;
+&lt;p&gt;Lucidi delle lezioni e Dispense integrative, sulla pagina Teams del corso
+&lt;a href=&#34;https://staff.icar.cnr.it/folino/apsb/lezioni.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lezioni anni precedenti&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;consigliati-e-approfondimenti-sul-c&#34;&gt;Consigliati e Approfondimenti sul C&lt;/h4&gt;
 &lt;p&gt;Kernighan and Ritchie, C Programming Language (la base) &lt;br&gt;
 Stephen Prata, C Primer Plus (molto completo)  &lt;br&gt;
 &lt;a href=&#34;http://c.learncodethehardway.org/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://c.learncodethehardway.org/book/&lt;/a&gt; &lt;br&gt;
@@ -342,7 +394,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-852413796&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-259731648&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -352,7 +404,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-852413796&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-259731648&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tag/linux/</link>
       <atom:link href="http://localhost:1313/tag/linux/index.xml" rel="self" type="application/rss+xml" />
     <description>Linux</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Linux</title>
@@ -15,49 +15,151 @@
     <item>
       <title>Ambienti di Programmazione e Programmazione Mobile</title>
       <link>http://localhost:1313/post/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/courses/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;h2 id=&#34;obiettivi-del-corso&#34;&gt;OBIETTIVI DEL CORSO&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;obiettivi-del-corso&#34;&gt;OBIETTIVI DEL CORSO&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Apprendere appieno l’utilizzo dei sistemi operativi basati su Unix (Linux in particolare)  e i principali linguaggi di scripting.&lt;/li&gt;
 &lt;li&gt;Apprendere la programmazione mobile su Android con l’ausilio del linguaggio Kotlin&lt;/li&gt;
 &lt;li&gt;Al termine del corso conoscerete Linux e sia dal punto di vista utente che con delle basi da amministratore e a progettare applicazioni Android&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;h2 id=&#34;programma&#34;&gt;Programma&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Storia dei sistemi Unix e Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I Desktop e le distribuzioni Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il file system di Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gestione dei processi e della memoria in Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La redirezione dell’input/output e le pipe.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comandi principali e programmazione shell base e avanzata&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L’ Amministrazione del sistema&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ambienti di Programmazione sotto Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il Linguaggio C, differenze con Java, i tipi di base, i puntatori, le struct, le funzioni, ecc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Installazione  e manutenzione Linux (Debian/Ubuntu, Gentoo)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduzione al mondo Mobile, ad Android e all&amp;rsquo;IDE Android Studio&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cenni della programmazione in Kotlin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Location based systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Activity and Activity Lifecycle&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explicit and Implicit intents&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Layout, widget and GUI&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resources&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sensors and System services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Location and Google Map Services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tag and NFC&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;materiale-didattico&#34;&gt;Materiale Didattico&lt;/h2&gt;
+&lt;h3 id=&#34;libri-di-testo-parte-linux&#34;&gt;Libri di Testo (parte Linux)&lt;/h3&gt;
+&lt;p&gt;Linux Documentation Project, &lt;a href=&#34;http://sunsite.unc.edu/linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sunsite.unc.edu/linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Guida completa Linux&amp;rdquo; - Peterson, MC Graw Hill.&lt;/p&gt;
+&lt;h5 id=&#34;in-italiano&#34;&gt;In italiano:&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.truelite.it/amministrare-gnu-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amministrare Gnu Linux&lt;/a&gt;, Simone  Piccardi  &lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/&lt;/a&gt;    Materiale Linux in italiano&lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/guide.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/guide.html&lt;/a&gt;    tutte le guide&lt;/p&gt;
+&lt;h3 id=&#34;libri-di-testo-parte-android&#34;&gt;Libri di Testo (parte Android)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://developer.android.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Android Developer&lt;/a&gt;, sito web di riferimento dei realizzatori di Android &lt;br&gt;
+Massimo Carli, Android 9, Apogeo &lt;br&gt;
+The First Line of Code Android Programming with Kotlin, Springer &lt;/p&gt;
+&lt;h3 id=&#34;altro-materiale-didattico&#34;&gt;Altro materiale didattico&lt;/h3&gt;
+&lt;p&gt;Lucidi delle lezioni e Dispense integrative, sulla pagina Teams del corso&lt;/p&gt;
+&lt;h3 id=&#34;consigliati-e-approfondimenti-sul-c&#34;&gt;Consigliati e Approfondimenti sul C&lt;/h3&gt;
+&lt;p&gt;Kernighan and Ritchie, C Programming Language (la base) &lt;br&gt;
+Stephen Prata, C Primer Plus (molto completo)  &lt;br&gt;
+&lt;a href=&#34;http://c.learncodethehardway.org/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://c.learncodethehardway.org/book/&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cslibrary.stanford.edu/101/EssentialC.pdf&lt;/a&gt;  (bignami) &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ambienti di Programmazione per il Software di base</title>
+      <link>http://localhost:1313/post/courses2/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/courses2/</guid>
+      <description>&lt;h2 id=&#34;obiettivi-del-corso&#34;&gt;OBIETTIVI DEL CORSO&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;li&gt;Apprendere appieno l’utilizzo dei sistemi operativi basati su Unix (Linux in particolare)  e i principali linguaggi di scripting.&lt;/li&gt;
+&lt;li&gt;Apprendere la programmazione mobile su Android con l’ausilio del linguaggio Kotlin&lt;/li&gt;
+&lt;li&gt;Al termine del corso conoscerete Linux e sia dal punto di vista utente che con delle basi da amministratore e a progettare applicazioni Android&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;h2 id=&#34;programma&#34;&gt;Programma&lt;/h2&gt;
+&lt;h3 id=&#34;introduzione-ai-sistemi-operativi-unix-like&#34;&gt;Introduzione ai sistemi operativi Unix-like.&lt;/h3&gt;
+&lt;p&gt;Storia dei sistemi operativi Unix. Richiamo dei concetti di base sul ruolo e sul funzionamento dei sistemi operativi.
+Cenni all&amp;rsquo;architettura dei sistemi operativi monolitici e micro-kernel. I sistemi operativi basati su kernel Linux.
+Le distribuzioni GNU/Linux. La distribuzione Ubuntu.&lt;/p&gt;
+&lt;h3 id=&#34;cenni-alle-problematiche-di-amministrazione-di-sistemi-gnulinux&#34;&gt;Cenni alle problematiche di amministrazione di sistemi GNU/Linux&lt;/h3&gt;
+&lt;p&gt;Installazione e configurazione di una distibuzione GNU/Linux. Installazione e configurazione di applicazioni e servizi locali e di rete.
+Amministrazione remota di Linux. I processi e i demoni. La gestione del file system. Le quote utente.
+I file system condivisi: Samba e NFS.&lt;/p&gt;
+&lt;h3 id=&#34;programmazione-della-shell&#34;&gt;Programmazione della shell&lt;/h3&gt;
+&lt;p&gt;Introduzione all&amp;rsquo;utilizzo della shell BASH. I comandi per la gestione del file-system e dei processi attivi.
+La redirezione dell&amp;rsquo;input/output e le pipe. Programmazione di semplici script di shell. Script per l&amp;rsquo;avvio e l&amp;rsquo;arresto dei servizi.
+Le variabili utente e di sistema. Il file .bashrc. Cicli e istruzioni condizionali. Espressioni regolari&lt;/p&gt;
+&lt;h3 id=&#34;fondamenti-di-programmazione-in-pyhton&#34;&gt;Fondamenti di programmazione in Pyhton&lt;/h3&gt;
+&lt;p&gt;Introduzione al linguaggio Python. L&amp;rsquo;interprete Python. Input/output in Python. I tipi, le variabili e gli operatori.
+Cicli e istruzioni condizionali. Le stringhe e i metodi correlati. I moduli e le funzioni in Python.
+Le stringhe di documentazione. Le liste. Le tuple. I dizionari. Utilizzo e gestione dei file. Le classi in Python.&lt;/p&gt;
+&lt;h3 id=&#34;elementi-di-programmazione-in-c&#34;&gt;Elementi di programmazione in C&lt;/h3&gt;
+&lt;p&gt;La sintassi del linguaggio C. Sviluppo di semplici programmi in C. Utilizzo della suite gcc (GNU Compiler Collection).
+I tipi di base. L&amp;rsquo;input/output in C. Le stringhe in C. Utilizzo dei puntatori. Vettori e matrici dinamici in C.
+Le funzioni nel linguaggio C. Semantica del trasferimento del flusso di controllo tra funzioni: funzionamento dello stack,
+record di attivazione, passaggio dei parametri. Realizzazione di librerie statiche e dinamiche.&lt;/p&gt;
+&lt;h2 id=&#34;materiale-didattico&#34;&gt;Materiale Didattico&lt;/h2&gt;
+&lt;h3 id=&#34;libri-di-testo-e-siti-web&#34;&gt;Libri di Testo e siti Web&lt;/h3&gt;
+&lt;p&gt;Linux Documentation Project, &lt;a href=&#34;http://sunsite.unc.edu/linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sunsite.unc.edu/linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Guida completa Linux&amp;rdquo; - Peterson, MC Graw Hill.&lt;/p&gt;
+&lt;p&gt;The First Line of Code: Android Programming with Kotlin&lt;/p&gt;
+&lt;h5 id=&#34;in-italiano&#34;&gt;In italiano:&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.truelite.it/amministrare-gnu-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amministrare Gnu Linux&lt;/a&gt;, Simone  Piccardi  &lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/&lt;/a&gt;    Materiale Linux in italiano&lt;br&gt;
+&lt;a href=&#34;http://www.pluto.it/ildp/guide.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pluto.it/ildp/guide.html&lt;/a&gt;    tutte le guide&lt;/p&gt;
+&lt;h3 id=&#34;altro-materiale-didattico&#34;&gt;Altro materiale didattico&lt;/h3&gt;
+&lt;p&gt;Lucidi delle lezioni e Dispense integrative, sulla pagina Teams del corso&lt;/p&gt;
+&lt;h3 id=&#34;consigliati-e-approfondimenti-sul-c&#34;&gt;Consigliati e Approfondimenti sul C&lt;/h3&gt;
+&lt;p&gt;Kernighan and Ritchie, C Programming Language (la base) &lt;br&gt;
+Stephen Prata, C Primer Plus (molto completo)  &lt;br&gt;
+&lt;a href=&#34;http://c.learncodethehardway.org/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://c.learncodethehardway.org/book/&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cslibrary.stanford.edu/101/EssentialC.pdf&lt;/a&gt;  (bignami) &lt;/p&gt;
 </description>
     </item>
     
