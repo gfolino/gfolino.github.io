@@ -1,6 +1,6 @@
 const BASE_DATA = window.UNICAL_GAMES_DATA;
 const STORAGE_KEY = 'unical-games-2026-results-v2';
-const state = { q: '', discipline: 'all', stage: 'all', edit: false, view: 'site', data: null, overrides: loadOverrides() };
+const state = { q: '', discipline: 'all', stage: 'all', edit: false, view: 'site', selectedTeam: null, data: null, overrides: loadOverrides() };
 const $ = s => document.querySelector(s);
 const norm = s => (s || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const cellKey = (sheetName, r, c) => `${sheetName}||${r}||${c}`;
@@ -25,8 +25,24 @@ function init() {
   $('#importFile').addEventListener('change', importOverrides);
   $('#clearLocalBtn').addEventListener('click', clearLocalResults);
   $('#adminJump').addEventListener('click', () => document.getElementById('admin').scrollIntoView({ behavior: 'smooth' }));
-  $('#rostersJump').addEventListener('click', () => document.getElementById('rosters').scrollIntoView({ behavior: 'smooth' }));
+  $('#rostersJump').addEventListener('click', () => { state.selectedTeam = null; renderRosters(); document.getElementById('rosters').scrollIntoView({ behavior: 'smooth' }); });
+  document.addEventListener('click', e => {
+    const btn = e.target.closest('[data-team-roster]');
+    const all = e.target.closest('[data-show-all-rosters]');
+    if (btn) {
+      e.preventDefault();
+      e.stopPropagation();
+      openTeamRoster(btn.dataset.teamRoster);
+      return;
+    }
+    if (all) {
+      e.preventDefault();
+      state.selectedTeam = null;
+      renderRosters();
+    }
+  });
 }
+
 
 function loadOverrides() {
   try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
@@ -68,10 +84,16 @@ function guessKind(v) {
   return 'team';
 }
 function resetFilters() {
-  state.q = ''; state.discipline = 'all'; state.stage = 'all';
+  state.q = ''; state.discipline = 'all'; state.stage = 'all'; state.selectedTeam = null;
   $('#search').value = ''; $('#discipline').value = 'all'; $('#stage').value = 'all';
   render(); renderAdmin(); renderRosters();
 }
+function openTeamRoster(team) {
+  state.selectedTeam = team;
+  renderRosters();
+  document.getElementById('rosters').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
 function toggleTheme() {
   const dark = document.documentElement.dataset.theme === 'dark';
   document.documentElement.dataset.theme = dark ? '' : 'dark';
@@ -131,19 +153,40 @@ function renderGrid(s) {
   return `<div class="bracket-wrap"><div class="bracket-grid ${state.edit ? 'editing' : ''}" style="${style}">${html}</div></div>`;
 }
 function renderCell(s, c, editable) {
-  const label = c.v ? esc(c.v) : '<span class="muted">+</span>';
+  const label = c.v ? renderTeamText(c.v, c.team) : '<span class="muted">+</span>';
   return `<div class="cell ${esc(c.kind || 'placeholder')} ${editable ? 'editable' : ''}" style="grid-row:${c.r};grid-column:${c.c}" data-sheet="${esc(s.name)}" data-r="${c.r}" data-c="${c.c}" title="${editable ? 'Clicca per modificare' : ''}">${label}</div>`;
 }
+function knownTeams() {
+  return new Set((state.data?.rosters || []).map(r => norm(r.squadra)));
+}
+function extractTeamFromText(text, explicitTeam) {
+  const t = (explicitTeam || '').trim();
+  if (t) return t;
+  const clean = (text || '').replace(/\s*\([^)]*\)\s*/g, '').trim();
+  if (/^[A-Z]{2,12}$/.test(clean)) return clean;
+  return '';
+}
+function renderTeamText(text, explicitTeam) {
+  const team = extractTeamFromText(text, explicitTeam);
+  if (!team) return esc(text);
+  const escapedText = esc(text);
+  const escapedTeam = esc(team);
+  const teamButton = `<button type="button" class="team-link" data-team-roster="${escapedTeam}" title="Apri formazione ${escapedTeam}">${escapedTeam}</button>`;
+  return escapedText.replace(escapedTeam, teamButton);
+}
 function renderGroups(s) {
-  return `<div class="groups">${s.groups.map(g => `<section class="group"><h3>${esc(g.name)}</h3><p class="teams">${g.teams.map(esc).join(' - ')}</p>${g.games.map(x => `<div class="game-row"><span class="muted">${esc(x.label)}</span><strong>${esc(x.team1)}</strong><span class="score">${esc(x.score || 'vs')}</span><strong>${esc(x.team2)}</strong></div>`).join('')}</section>`).join('')}</div>${renderGrid(s)}`;
+  return `<div class="groups">${s.groups.map(g => `<section class="group"><h3>${esc(g.name)}</h3><p class="teams">${g.teams.map(t => renderTeamText(t)).join(' - ')}</p>${g.games.map(x => `<div class="game-row"><span class="muted">${esc(x.label)}</span><strong>${renderTeamText(x.team1)}</strong><span class="score">${esc(x.score || 'vs')}</span><strong>${renderTeamText(x.team2)}</strong></div>`).join('')}</section>`).join('')}</div>${renderGrid(s)}`;
 }
 function renderMatches(s) {
   if (!s.matches.length) return '';
-  return `<div class="match-list">${s.matches.slice(0, 80).map(m => `<div class="match-card"><h3>${esc(m.label)}</h3><div class="teams">${(m.teams || []).map(esc).join(' · ') || 'Da definire'}</div>${m.placeholders && m.placeholders.length ? `<div class="muted">${m.placeholders.map(esc).join(' · ')}</div>` : ''}</div>`).join('')}</div>`;
+  return `<div class="match-list">${s.matches.slice(0, 80).map(m => `<div class="match-card"><h3>${esc(m.label)}</h3><div class="teams">${(m.teams || []).map(t => renderTeamText(t)).join(' · ') || 'Da definire'}</div>${m.placeholders && m.placeholders.length ? `<div class="muted">${m.placeholders.map(esc).join(' · ')}</div>` : ''}</div>`).join('')}</div>`;
 }
 function attachCellEditors() {
   document.querySelectorAll('.cell.editable').forEach(el => {
-    el.addEventListener('click', () => editCell(el.dataset.sheet, Number(el.dataset.r), Number(el.dataset.c)));
+    el.addEventListener('click', e => {
+      if (e.target.closest('[data-team-roster]')) return;
+      editCell(el.dataset.sheet, Number(el.dataset.r), Number(el.dataset.c));
+    });
   });
 }
 function editCell(sheetName, r, c) {
@@ -164,6 +207,7 @@ function editCell(sheetName, r, c) {
 function renderRosters() {
   const list = state.data.rosters || [];
   const filtered = list.filter(r => {
+    if (state.selectedTeam && norm(r.squadra) !== norm(state.selectedTeam)) return false;
     if (state.discipline !== 'all') {
       const d = norm(state.discipline);
       const rd = norm(r.disciplina);
@@ -173,9 +217,15 @@ function renderRosters() {
     return !state.q || hay.includes(norm(state.q));
   });
   const total = list.reduce((sum, r) => sum + r.atleti.length, 0);
-  const html = `<div class="section-head"><div><p class="eyebrow">Formazioni</p><h2>Rose squadre</h2><p class="muted">Dati pubblicati: solo nome, cognome e categoria. Totale nominativi caricati: <strong>${total}</strong>.</p></div></div>` +
-    (filtered.length ? `<div class="roster-grid">${filtered.map(renderRosterCard).join('')}</div>` : '<p class="muted">Nessuna formazione trovata con i filtri attivi.</p>');
-  $('#rosters').innerHTML = html;
+  const title = state.selectedTeam ? `Formazione ${esc(state.selectedTeam)}` : 'Rose squadre';
+  const intro = state.selectedTeam
+    ? `Qui sotto trovi le formazioni caricate per <strong>${esc(state.selectedTeam)}</strong>, divise per disciplina.`
+    : `Clicca su una squadra nei tabelloni per aprire la sua formazione. Dati pubblicati: solo nome, cognome e categoria. Totale nominativi caricati: <strong>${total}</strong>.`;
+  const resetButton = state.selectedTeam ? `<button type="button" class="small" data-show-all-rosters="1">Mostra tutte le formazioni</button>` : '';
+  const body = filtered.length
+    ? `<div class="roster-grid">${filtered.map(renderRosterCard).join('')}</div>`
+    : `<article class="roster-card roster-empty"><h3>${esc(state.selectedTeam || 'Nessuna formazione')}</h3><p class="muted">Formazione non ancora caricata per questa squadra. Quando aggiungi un file di squadra, il collegamento dal tabellone iniziera a mostrare la rosa.</p></article>`;
+  $('#rosters').innerHTML = `<div class="section-head"><div><p class="eyebrow">Formazioni</p><h2>${title}</h2><p class="muted">${intro}</p></div><div>${resetButton}</div></div>${body}`;
 }
 function renderRosterCard(r) {
   const counts = r.atleti.reduce((acc, a) => { acc[a.categoria] = (acc[a.categoria] || 0) + 1; return acc; }, {});
