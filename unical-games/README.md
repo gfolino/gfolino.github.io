@@ -34,6 +34,6 @@ Il sito non usa backend, database o login. Questo lo rende compatibile con GitHu
 
 ## Formazioni / rose squadre
 
-La sezione **Formazioni** include le rose DIMES estratte da `UnicalGames_DIMES.xlsx`. Per privacy sono stati pubblicati solo i campi: **nome**, **cognome**, **categoria**. Telefono, genere, tesseramento, taglia, ruolo, note e altri campi non sono inclusi nel sito.
+La sezione **Formazioni** include le rose DIMES estratte da `UnicalGames_DIMES.xlsx`. Le squadre presenti nei tabelloni sono cliccabili: cliccando su **DIMES** si apre direttamente la formazione DIMES, divisa per disciplina. Per privacy sono stati pubblicati solo i campi: **nome**, **cognome**, **categoria**. Telefono, genere, tesseramento, taglia, ruolo, note e altri campi non sono inclusi nel sito.
 
 Per aggiungere altre squadre, prepara file analoghi e rigenera `data.js` mantenendo nel campo `rosters` solo nome, cognome e categoria.
