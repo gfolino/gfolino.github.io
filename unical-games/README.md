@@ -30,3 +30,10 @@ Sito statico per pubblicare i tabelloni degli Unical Games 2026 su GitHub Pages.
 ## Nota tecnica
 
 Il sito non usa backend, database o login. Questo lo rende compatibile con GitHub Pages, ma significa che la pubblicazione definitiva richiede la sostituzione del file `data.js` nel repository.
+
+
+## Formazioni / rose squadre
+
+La sezione **Formazioni** include le rose DIMES estratte da `UnicalGames_DIMES.xlsx`. Per privacy sono stati pubblicati solo i campi: **nome**, **cognome**, **categoria**. Telefono, genere, tesseramento, taglia, ruolo, note e altri campi non sono inclusi nel sito.
+
+Per aggiungere altre squadre, prepara file analoghi e rigenera `data.js` mantenendo nel campo `rosters` solo nome, cognome e categoria.

@@ -12,10 +12,11 @@ function init() {
   renderRules();
   render();
   renderAdmin();
+  renderRosters();
 
-  $('#search').addEventListener('input', e => { state.q = e.target.value; render(); });
-  $('#discipline').addEventListener('change', e => { state.discipline = e.target.value; render(); renderAdmin(); });
-  $('#stage').addEventListener('change', e => { state.stage = e.target.value; render(); renderAdmin(); });
+  $('#search').addEventListener('input', e => { state.q = e.target.value; render(); renderRosters(); });
+  $('#discipline').addEventListener('change', e => { state.discipline = e.target.value; render(); renderAdmin(); renderRosters(); });
+  $('#stage').addEventListener('change', e => { state.stage = e.target.value; render(); renderAdmin(); renderRosters(); });
   $('#reset').addEventListener('click', resetFilters);
   $('#themeBtn').addEventListener('click', toggleTheme);
   $('#editBtn').addEventListener('click', toggleEditMode);
@@ -24,6 +25,7 @@ function init() {
   $('#importFile').addEventListener('change', importOverrides);
   $('#clearLocalBtn').addEventListener('click', clearLocalResults);
   $('#adminJump').addEventListener('click', () => document.getElementById('admin').scrollIntoView({ behavior: 'smooth' }));
+  $('#rostersJump').addEventListener('click', () => document.getElementById('rosters').scrollIntoView({ behavior: 'smooth' }));
 }
 
 function loadOverrides() {
@@ -68,7 +70,7 @@ function guessKind(v) {
 function resetFilters() {
   state.q = ''; state.discipline = 'all'; state.stage = 'all';
   $('#search').value = ''; $('#discipline').value = 'all'; $('#stage').value = 'all';
-  render(); renderAdmin();
+  render(); renderAdmin(); renderRosters();
 }
 function toggleTheme() {
   const dark = document.documentElement.dataset.theme === 'dark';
@@ -158,6 +160,29 @@ function editCell(sheetName, r, c) {
   }
   saveOverrides();
 }
+
+function renderRosters() {
+  const list = state.data.rosters || [];
+  const filtered = list.filter(r => {
+    if (state.discipline !== 'all') {
+      const d = norm(state.discipline);
+      const rd = norm(r.disciplina);
+      if (!rd.includes(d) && !d.includes(rd.replace(' a 7', '')) && !(d === 'calcio' && rd.includes('calcio a 7'))) return false;
+    }
+    const hay = norm([r.squadra, r.disciplina, ...r.atleti.flatMap(a => [a.nome, a.cognome, a.categoria])].join(' '));
+    return !state.q || hay.includes(norm(state.q));
+  });
+  const total = list.reduce((sum, r) => sum + r.atleti.length, 0);
+  const html = `<div class="section-head"><div><p class="eyebrow">Formazioni</p><h2>Rose squadre</h2><p class="muted">Dati pubblicati: solo nome, cognome e categoria. Totale nominativi caricati: <strong>${total}</strong>.</p></div></div>` +
+    (filtered.length ? `<div class="roster-grid">${filtered.map(renderRosterCard).join('')}</div>` : '<p class="muted">Nessuna formazione trovata con i filtri attivi.</p>');
+  $('#rosters').innerHTML = html;
+}
+function renderRosterCard(r) {
+  const counts = r.atleti.reduce((acc, a) => { acc[a.categoria] = (acc[a.categoria] || 0) + 1; return acc; }, {});
+  const countText = Object.entries(counts).map(([k, v]) => `${esc(k)}: ${v}`).join(' · ');
+  return `<article class="roster-card"><div class="roster-head"><div><h3>${esc(r.squadra)} · ${esc(r.disciplina)}</h3><p class="muted">${r.atleti.length} persone · ${countText}</p></div></div><div class="roster-list">${r.atleti.map(a => `<div class="athlete"><span>${esc(a.nome)} ${esc(a.cognome)}</span><strong>${esc(a.categoria)}</strong></div>`).join('')}</div></article>`;
+}
+
 function renderAdmin() {
   const sheets = state.data.sheets.filter(keep);
   const rows = [];

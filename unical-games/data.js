@@ -1,5 +1,5 @@
 window.UNICAL_GAMES_DATA = {
-  "generatedFrom": "Tabelloni_def.xlsx",
+  "generatedFrom": "Tabelloni_def.xlsx + UnicalGames_DIMES.xlsx (rose pubbliche filtrate)",
   "sheets": [
     {
       "name": "Calcio Golden",
@@ -3251,5 +3251,662 @@ window.UNICAL_GAMES_DATA = {
         "vincoli": "almeno 4 studenti, 2 dipendenti e 2 F"
       }
     ]
-  }
+  },
+  "rosters": [
+    {
+      "squadra": "DIMES",
+      "disciplina": "Calcio a 7",
+      "atleti": [
+        {
+          "nome": "Vincenzo",
+          "cognome": "Barbuto",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Cristian",
+          "cognome": "Cosentino",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Umile",
+          "cognome": "Gradilone",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Luca Salvatore",
+          "cognome": "Braccioforte",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Andrea Nicodemo",
+          "cognome": "Sansalone",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Davide",
+          "cognome": "Tocci",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Alessandro Umile",
+          "cognome": "Sposato",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Chiodo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Riccardo",
+          "cognome": "Vulcano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Chidichimo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Valeriano",
+          "cognome": "Loiacono",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Ritacco",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Pasquale",
+          "cognome": "Trimarchi",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Flavio Mario",
+          "cognome": "Ferraro",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Mattia",
+          "cognome": "Creazzo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Cesare",
+          "cognome": "Esposito",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe Gabriele",
+          "cognome": "Polimeni",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Antonio",
+          "cognome": "Mattei",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Eugenio",
+          "cognome": "Macchione",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Matteo",
+          "cognome": "Fabiano",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Pallavolo",
+      "atleti": [
+        {
+          "nome": "Luca",
+          "cognome": "Ferragina",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Mattia",
+          "cognome": "Marasco",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Fabio",
+          "cognome": "Pietramala",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Maria Francesca",
+          "cognome": "Verta",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Caterina",
+          "cognome": "Marsico",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Lorenzo",
+          "cognome": "Ippolito",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Gennaro",
+          "cognome": "Scalese",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Alessia",
+          "cognome": "Puglia",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Ludovica",
+          "cognome": "Zannino",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Marco",
+          "cognome": "Rabbia",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Luciano",
+          "cognome": "Avena",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Roberto",
+          "cognome": "Sicilia",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Francesco",
+          "cognome": "Pepe",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Greta",
+          "cognome": "Gasparro",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Chiara",
+          "cognome": "Cogliandro",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Pallacanestro",
+      "atleti": [
+        {
+          "nome": "Luis Geraldo",
+          "cognome": "Montero",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Tennis",
+      "atleti": [
+        {
+          "nome": "Francesco",
+          "cognome": "Scala",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Liliana",
+          "cognome": "Martirano",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Gianluigi",
+          "cognome": "Folino",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Michael",
+          "cognome": "Parise",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Domenico",
+          "cognome": "Pitingolo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Salerno",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Benedetta",
+          "cognome": "Italiano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Filippo",
+          "cognome": "Furfaro",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Andrea",
+          "cognome": "Falco",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe Gabriele",
+          "cognome": "Polimeni",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Calabria",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Corsa",
+      "atleti": [
+        {
+          "nome": "Francesco",
+          "cognome": "Scala",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Elena",
+          "cognome": "Carpenzano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Gianluigi",
+          "cognome": "Folino",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Noemi",
+          "cognome": "Baldino",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Luca",
+          "cognome": "Ferragina",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Giuseppe Pio",
+          "cognome": "Raho",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Luana",
+          "cognome": "Perri",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "D'Andrea",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Antonino",
+          "cognome": "Magro",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Curcio",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Edoardo",
+          "cognome": "Calidonna",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Federico",
+          "cognome": "Cipri",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Simone",
+          "cognome": "D'Angelo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Elisabetta",
+          "cognome": "Surace",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Nuoto",
+      "atleti": [
+        {
+          "nome": "Elena",
+          "cognome": "Carpanzano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Matteo",
+          "cognome": "Lupinacci",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Antonio",
+          "cognome": "Bilotta",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Leonardo",
+          "cognome": "Leonetti",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Ludovica",
+          "cognome": "Staine",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Simone",
+          "cognome": "Guglielmo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giulio",
+          "cognome": "Cavagnetti",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Cristiano",
+          "cognome": "Romano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Marco",
+          "cognome": "Aloe",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Raffaella",
+          "cognome": "Circosta",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Angelo",
+          "cognome": "Capogrosso",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Federico",
+          "cognome": "Cipri",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Tiro alla fune",
+      "atleti": [
+        {
+          "nome": "Antonio",
+          "cognome": "Laudonio",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Scaramuzzo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "De Marco",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Raffaele",
+          "cognome": "Severino",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Elena",
+          "cognome": "Carpanzano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Mattia",
+          "cognome": "Marino",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Andrea",
+          "cognome": "Attadia",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Federica",
+          "cognome": "Geria",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Angelo",
+          "cognome": "Schembri",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Francesca",
+          "cognome": "Cicciù",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Francesco",
+          "cognome": "Varano",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Giuseppe",
+          "cognome": "Martino",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Mariano",
+          "cognome": "Parise",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Denise",
+          "cognome": "Guadagnuolo",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Cristian",
+          "cognome": "Cosentino",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Dimitri",
+          "cognome": "Perri",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Eugenio",
+          "cognome": "Vocaturo",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Ettore",
+          "cognome": "Aloe",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Noemi",
+          "cognome": "Baldino",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Domenico",
+          "cognome": "Mammolenti",
+          "categoria": "Dipendente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Calcio balilla",
+      "atleti": [
+        {
+          "nome": "Giovanni",
+          "cognome": "Staino",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Luigi",
+          "cognome": "Porto",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Stefano",
+          "cognome": "Laureti",
+          "categoria": "Dipendente"
+        },
+        {
+          "nome": "Francesca",
+          "cognome": "Cicciù",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Angelo",
+          "cognome": "Schembri",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Mattia",
+          "cognome": "Iozzi",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Vittorio",
+          "cognome": "Cuglietta",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Eugenio",
+          "cognome": "Macchione",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Cesare",
+          "cognome": "Esposito",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Francesco",
+          "cognome": "Bertucci",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Domenico",
+          "cognome": "Sciarrotta",
+          "categoria": "Studente"
+        }
+      ]
+    },
+    {
+      "squadra": "DIMES",
+      "disciplina": "Corsa con i sacchi",
+      "atleti": [
+        {
+          "nome": "Francesca",
+          "cognome": "Toteda",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Vittorio",
+          "cognome": "Cuglietta",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Pasquale",
+          "cognome": "Rubino",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Francesca",
+          "cognome": "Cicciù",
+          "categoria": "Studente"
+        },
+        {
+          "nome": "Walter Ugo",
+          "cognome": "Tassone",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Federico",
+          "cognome": "Cipri",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Noemi",
+          "cognome": "Baldino",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Cristian",
+          "cognome": "Cosentino",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Elena",
+          "cognome": "Carpanzano",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Edoardo",
+          "cognome": "Calidonna",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Federica",
+          "cognome": "Geria",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Luca",
+          "cognome": "Ferragina",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Cesare",
+          "cognome": "Esposito",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Antonio",
+          "cognome": "Laudonio",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Mattia",
+          "cognome": "Marasco",
+          "categoria": "Da completare"
+        },
+        {
+          "nome": "Giuseppepio",
+          "cognome": "Oliva",
+          "categoria": "Da completare"
+        }
+      ]
+    }
+  ],
+  "rosterPrivacy": "Le rose pubbliche contengono solo nome, cognome e categoria; altri dati del modulo non sono inclusi."
 };
