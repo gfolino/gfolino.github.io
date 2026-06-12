@@ -1,5 +1,5 @@
 window.UNICAL_GAMES_DATA = {
-  "generatedFrom": "Tabelloni_def.xlsx + UnicalGames_DIMES.xlsx (rose pubbliche filtrate)",
+  "generatedFrom": "Tabelloni_def (1).xlsx + calendari calcio/pallavolo/tennis/pallacanestro aggiornati + UnicalGames_DIMES.xlsx (rose pubbliche filtrate)",
   "sheets": [
     {
       "name": "Calcio Golden",
@@ -32,6 +32,22 @@ window.UNICAL_GAMES_DATA = {
           "c": 2,
           "v": "gara 4",
           "kind": "match"
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "v": "DESF (3-1)",
+          "kind": "result",
+          "team": "DESF",
+          "score": "3-1"
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "v": "FISICA (3-2)",
+          "kind": "result",
+          "team": "FISICA",
+          "score": "3-2"
         },
         {
           "r": 4,
@@ -169,6 +185,22 @@ window.UNICAL_GAMES_DATA = {
         },
         {
           "r": 12,
+          "c": 3,
+          "v": "DIMEG (3-0)",
+          "kind": "result",
+          "team": "DIMEG",
+          "score": "3-0"
+        },
+        {
+          "r": 12,
+          "c": 7,
+          "v": "DISCAG (3-0)",
+          "kind": "result",
+          "team": "DISCAG",
+          "score": "3-0"
+        },
+        {
+          "r": 12,
           "c": 8,
           "v": "gara 11",
           "kind": "match"
@@ -252,89 +284,13 @@ window.UNICAL_GAMES_DATA = {
       ],
       "matches": [
         {
-          "label": "gara 4",
-          "row": 4,
-          "teams": [
-            "DESF",
-            "DIBEST",
-            "DESF (9-0)",
-            "DIMES (2-1)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 10",
-          "row": 4,
-          "teams": [
-            "DESF",
-            "DIBEST",
-            "DESF (9-0)",
-            "DIMES (2-1)"
-          ],
-          "placeholders": []
-        },
-        {
           "label": "gara 1",
           "row": 6,
           "teams": [
+            "DESF (3-1)",
             "DESF",
-            "DIBEST",
             "DESF (9-0)",
-            "DIMES (2-1)",
-            "DISPES",
-            "DIMES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 7",
-          "row": 6,
-          "teams": [
-            "DESF",
-            "DIBEST",
-            "DESF (9-0)",
-            "DIMES (2-1)",
-            "DISPES",
-            "DIMES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 6",
-          "row": 8,
-          "teams": [
-            "DISPES",
-            "DIMES",
-            "DIMEG",
-            "DISCAG",
-            "DIMEG (13-2)",
-            "DISCAG (4-0)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 13",
-          "row": 8,
-          "teams": [
-            "DISPES",
-            "DIMES",
-            "DIMEG",
-            "DISCAG",
-            "DIMEG (13-2)",
-            "DISCAG (4-0)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 12",
-          "row": 8,
-          "teams": [
-            "DISPES",
-            "DIMES",
-            "DIMEG",
-            "DISCAG",
-            "DIMEG (13-2)",
-            "DISCAG (4-0)"
+            "DISPES"
           ],
           "placeholders": []
         },
@@ -343,50 +299,9 @@ window.UNICAL_GAMES_DATA = {
           "row": 10,
           "teams": [
             "DIMEG",
-            "DISCAG",
             "DIMEG (13-2)",
-            "DISCAG (4-0)",
             "CTC",
-            "DICES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 8",
-          "row": 10,
-          "teams": [
-            "DIMEG",
-            "DISCAG",
-            "DIMEG (13-2)",
-            "DISCAG (4-0)",
-            "CTC",
-            "DICES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 5",
-          "row": 12,
-          "teams": [
-            "CTC",
-            "DICES",
-            "DISU",
-            "DFSSN",
-            "DEMACS (4-2)",
-            "DFSSN (2-1)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 11",
-          "row": 12,
-          "teams": [
-            "CTC",
-            "DICES",
-            "DISU",
-            "DFSSN",
-            "DEMACS (4-2)",
-            "DFSSN (2-1)"
+            "DIMEG (3-0)"
           ],
           "placeholders": []
         },
@@ -394,25 +309,10 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 3",
           "row": 14,
           "teams": [
+            "DIMEG (3-0)",
             "DISU",
-            "DFSSN",
             "DEMACS (4-2)",
-            "DFSSN (2-1)",
-            "DEMACS",
-            "DINCI"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 9",
-          "row": 14,
-          "teams": [
-            "DISU",
-            "DFSSN",
-            "DEMACS (4-2)",
-            "DFSSN (2-1)",
-            "DEMACS",
-            "DINCI"
+            "DEMACS"
           ],
           "placeholders": []
         },
@@ -424,6 +324,113 @@ window.UNICAL_GAMES_DATA = {
             "perdente gara 6",
             "perdente gara 12"
           ]
+        },
+        {
+          "label": "gara 4",
+          "row": 4,
+          "teams": [
+            "DIAM",
+            "DESF (3-1)",
+            "DESF",
+            "DESF (9-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 5",
+          "row": 12,
+          "teams": [
+            "DIMEG (13-2)",
+            "CTC",
+            "DIMEG (3-0)",
+            "DISU",
+            "DEMACS (4-2)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 6",
+          "row": 8,
+          "teams": [
+            "DESF (9-0)",
+            "DISPES",
+            "DIMEG",
+            "DIMEG (13-2)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 7",
+          "row": 6,
+          "teams": [
+            "FISICA (3-2)",
+            "DIBEST",
+            "DIMES (2-1)",
+            "DIMES"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 8",
+          "row": 10,
+          "teams": [
+            "DISCAG",
+            "DISCAG (4-0)",
+            "DICES",
+            "DISCAG (3-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 9",
+          "row": 14,
+          "teams": [
+            "DISCAG (3-0)",
+            "DFSSN",
+            "DFSSN (2-1)",
+            "DINCI"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 10",
+          "row": 4,
+          "teams": [
+            "FISICA",
+            "FISICA (3-2)",
+            "DIBEST",
+            "DIMES (2-1)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 11",
+          "row": 12,
+          "teams": [
+            "DISCAG (4-0)",
+            "DICES",
+            "DISCAG (3-0)",
+            "DFSSN",
+            "DFSSN (2-1)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 12",
+          "row": 8,
+          "teams": [
+            "DIMES (2-1)",
+            "DIMES",
+            "DISCAG",
+            "DISCAG (4-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 13",
+          "row": 8,
+          "teams": [],
+          "placeholders": []
         },
         {
           "label": "gara 14",
@@ -443,7 +450,7 @@ window.UNICAL_GAMES_DATA = {
       "stage": "Silver",
       "type": "bracket",
       "rows": 27,
-      "cols": 5,
+      "cols": 9,
       "cells": [
         {
           "r": 1,
@@ -454,8 +461,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 3,
           "c": 3,
-          "v": "perdente gara 4",
-          "kind": "placeholder"
+          "v": "DIAM",
+          "kind": "team"
         },
         {
           "r": 5,
@@ -476,6 +483,14 @@ window.UNICAL_GAMES_DATA = {
           "kind": "match"
         },
         {
+          "r": 7,
+          "c": 3,
+          "v": "DIBEST (2-1)",
+          "kind": "result",
+          "team": "DIBEST",
+          "score": "2-1"
+        },
+        {
           "r": 8,
           "c": 2,
           "v": "DIBEST",
@@ -490,8 +505,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 10,
           "c": 3,
-          "v": "perdente gara 11",
-          "kind": "placeholder"
+          "v": "DFSSN",
+          "kind": "team"
         },
         {
           "r": 12,
@@ -526,8 +541,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 20,
           "c": 3,
-          "v": "perdente gara 10",
-          "kind": "placeholder"
+          "v": "DIMES",
+          "kind": "team"
         },
         {
           "r": 21,
@@ -538,8 +553,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 22,
           "c": 3,
-          "v": "perdente gara 5",
-          "kind": "placeholder"
+          "v": "DEMACS",
+          "kind": "team"
         },
         {
           "r": 24,
@@ -560,6 +575,12 @@ window.UNICAL_GAMES_DATA = {
           "kind": "match"
         },
         {
+          "r": 26,
+          "c": 3,
+          "v": "DINCI",
+          "kind": "team"
+        },
+        {
           "r": 27,
           "c": 2,
           "v": "DINCI",
@@ -568,71 +589,12 @@ window.UNICAL_GAMES_DATA = {
       ],
       "matches": [
         {
-          "label": "gara 17",
-          "row": 5,
-          "teams": [
-            "DISU"
-          ],
-          "placeholders": []
-        },
-        {
           "label": "gara 15",
           "row": 7,
           "teams": [
             "DISU",
+            "DIBEST (2-1)",
             "DIBEST"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 21",
-          "row": 8,
-          "teams": [
-            "DIBEST"
-          ],
-          "placeholders": [
-            "perdente gara 11"
-          ]
-        },
-        {
-          "label": "gara 18",
-          "row": 12,
-          "teams": [
-            "DISPES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 23",
-          "row": 15,
-          "teams": [
-            "DISPES",
-            "CTC"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 19",
-          "row": 18,
-          "teams": [],
-          "placeholders": [
-            "perdente gara 10"
-          ]
-        },
-        {
-          "label": "gara 22",
-          "row": 21,
-          "teams": [],
-          "placeholders": [
-            "perdente gara 10",
-            "perdente gara 5"
-          ]
-        },
-        {
-          "label": "gara 20",
-          "row": 24,
-          "teams": [
-            "DICES"
           ],
           "placeholders": []
         },
@@ -642,6 +604,73 @@ window.UNICAL_GAMES_DATA = {
           "teams": [
             "DICES",
             "DINCI"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 17",
+          "row": 5,
+          "teams": [
+            "DIAM",
+            "DISU",
+            "DIBEST (2-1)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 18",
+          "row": 12,
+          "teams": [
+            "DFSSN",
+            "DISPES"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 19",
+          "row": 18,
+          "teams": [
+            "CTC",
+            "DIMES"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 20",
+          "row": 24,
+          "teams": [
+            "DEMACS",
+            "DICES",
+            "DINCI"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 21",
+          "row": 8,
+          "teams": [
+            "DISU",
+            "DIBEST (2-1)",
+            "DIBEST",
+            "DFSSN"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 22",
+          "row": 21,
+          "teams": [
+            "DIMES",
+            "DEMACS"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 23",
+          "row": 15,
+          "teams": [
+            "DISPES",
+            "CTC"
           ],
           "placeholders": []
         }
@@ -679,6 +708,22 @@ window.UNICAL_GAMES_DATA = {
           "c": 2,
           "v": "gara 4",
           "kind": "match"
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "v": "DIMEG (2-0)",
+          "kind": "result",
+          "team": "DIMEG",
+          "score": "2-0"
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "v": "DIBEST (2-1)",
+          "kind": "result",
+          "team": "DIBEST",
+          "score": "2-1"
         },
         {
           "r": 4,
@@ -816,6 +861,22 @@ window.UNICAL_GAMES_DATA = {
         },
         {
           "r": 12,
+          "c": 3,
+          "v": "DISCAG (2-1)",
+          "kind": "result",
+          "team": "DISCAG",
+          "score": "2-1"
+        },
+        {
+          "r": 12,
+          "c": 7,
+          "v": "DEMACS (2-1)",
+          "kind": "result",
+          "team": "DEMACS",
+          "score": "2-1"
+        },
+        {
+          "r": 12,
           "c": 8,
           "v": "gara 11",
           "kind": "match"
@@ -899,89 +960,13 @@ window.UNICAL_GAMES_DATA = {
       ],
       "matches": [
         {
-          "label": "gara 4",
-          "row": 4,
-          "teams": [
-            "DISU",
-            "CTC",
-            "DISU (2-0)",
-            "DIBEST (2-0)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 10",
-          "row": 4,
-          "teams": [
-            "DISU",
-            "CTC",
-            "DISU (2-0)",
-            "DIBEST (2-0)"
-          ],
-          "placeholders": []
-        },
-        {
           "label": "gara 1",
           "row": 6,
           "teams": [
+            "DIMEG (2-0)",
             "DISU",
-            "CTC",
             "DISU (2-0)",
-            "DIBEST (2-0)",
-            "DIAM",
-            "DIBEST"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 7",
-          "row": 6,
-          "teams": [
-            "DISU",
-            "CTC",
-            "DISU (2-0)",
-            "DIBEST (2-0)",
-            "DIAM",
-            "DIBEST"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 6",
-          "row": 8,
-          "teams": [
-            "DIAM",
-            "DIBEST",
-            "FISICA",
-            "DEMACS",
-            "DFSSN (2-0)",
-            "DEMACS (2-0)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 13",
-          "row": 8,
-          "teams": [
-            "DIAM",
-            "DIBEST",
-            "FISICA",
-            "DEMACS",
-            "DFSSN (2-0)",
-            "DEMACS (2-0)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 12",
-          "row": 8,
-          "teams": [
-            "DIAM",
-            "DIBEST",
-            "FISICA",
-            "DEMACS",
-            "DFSSN (2-0)",
-            "DEMACS (2-0)"
+            "DIAM"
           ],
           "placeholders": []
         },
@@ -990,50 +975,9 @@ window.UNICAL_GAMES_DATA = {
           "row": 10,
           "teams": [
             "FISICA",
-            "DEMACS",
             "DFSSN (2-0)",
-            "DEMACS (2-0)",
             "DFSSN",
-            "DICES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 8",
-          "row": 10,
-          "teams": [
-            "FISICA",
-            "DEMACS",
-            "DFSSN (2-0)",
-            "DEMACS (2-0)",
-            "DFSSN",
-            "DICES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 5",
-          "row": 12,
-          "teams": [
-            "DFSSN",
-            "DICES",
-            "DISPES",
-            "DIMES",
-            "DISCAG (ND)",
-            "DIMES (2-0)"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 11",
-          "row": 12,
-          "teams": [
-            "DFSSN",
-            "DICES",
-            "DISPES",
-            "DIMES",
-            "DISCAG (ND)",
-            "DIMES (2-0)"
+            "DISCAG (2-1)"
           ],
           "placeholders": []
         },
@@ -1041,25 +985,10 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 3",
           "row": 14,
           "teams": [
+            "DISCAG (2-1)",
             "DISPES",
-            "DIMES",
             "DISCAG (ND)",
-            "DIMES (2-0)",
-            "DISCAG",
-            "DESF"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 9",
-          "row": 14,
-          "teams": [
-            "DISPES",
-            "DIMES",
-            "DISCAG (ND)",
-            "DIMES (2-0)",
-            "DISCAG",
-            "DESF"
+            "DISCAG"
           ],
           "placeholders": []
         },
@@ -1071,6 +1000,113 @@ window.UNICAL_GAMES_DATA = {
             "perdente gara 6",
             "perdente gara 12"
           ]
+        },
+        {
+          "label": "gara 4",
+          "row": 4,
+          "teams": [
+            "DIMEG",
+            "DIMEG (2-0)",
+            "DISU",
+            "DISU (2-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 5",
+          "row": 12,
+          "teams": [
+            "DFSSN (2-0)",
+            "DFSSN",
+            "DISCAG (2-1)",
+            "DISPES",
+            "DISCAG (ND)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 6",
+          "row": 8,
+          "teams": [
+            "DISU (2-0)",
+            "DIAM",
+            "FISICA",
+            "DFSSN (2-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 7",
+          "row": 6,
+          "teams": [
+            "DIBEST (2-1)",
+            "CTC",
+            "DIBEST (2-0)",
+            "DIBEST"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 8",
+          "row": 10,
+          "teams": [
+            "DEMACS",
+            "DEMACS (2-0)",
+            "DICES",
+            "DEMACS (2-1)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 9",
+          "row": 14,
+          "teams": [
+            "DEMACS (2-1)",
+            "DIMES",
+            "DIMES (2-0)",
+            "DESF"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 10",
+          "row": 4,
+          "teams": [
+            "DINCI",
+            "DIBEST (2-1)",
+            "CTC",
+            "DIBEST (2-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 11",
+          "row": 12,
+          "teams": [
+            "DEMACS (2-0)",
+            "DICES",
+            "DEMACS (2-1)",
+            "DIMES",
+            "DIMES (2-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 12",
+          "row": 8,
+          "teams": [
+            "DIBEST (2-0)",
+            "DIBEST",
+            "DEMACS",
+            "DEMACS (2-0)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 13",
+          "row": 8,
+          "teams": [],
+          "placeholders": []
         },
         {
           "label": "gara 14",
@@ -1090,7 +1126,7 @@ window.UNICAL_GAMES_DATA = {
       "stage": "Silver",
       "type": "bracket",
       "rows": 27,
-      "cols": 5,
+      "cols": 9,
       "cells": [
         {
           "r": 1,
@@ -1101,8 +1137,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 3,
           "c": 3,
-          "v": "perdente gara 4",
-          "kind": "placeholder"
+          "v": "DISU",
+          "kind": "team"
         },
         {
           "r": 5,
@@ -1123,6 +1159,12 @@ window.UNICAL_GAMES_DATA = {
           "kind": "match"
         },
         {
+          "r": 7,
+          "c": 3,
+          "v": "CTC",
+          "kind": "team"
+        },
+        {
           "r": 8,
           "c": 2,
           "v": "CTC",
@@ -1137,8 +1179,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 10,
           "c": 3,
-          "v": "perdente gara 11",
-          "kind": "placeholder"
+          "v": "DIMES",
+          "kind": "team"
         },
         {
           "r": 12,
@@ -1173,8 +1215,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 20,
           "c": 3,
-          "v": "perdente gara 10",
-          "kind": "placeholder"
+          "v": "DINCI",
+          "kind": "team"
         },
         {
           "r": 21,
@@ -1185,8 +1227,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 22,
           "c": 3,
-          "v": "perdente gara 5",
-          "kind": "placeholder"
+          "v": "DFSSN",
+          "kind": "team"
         },
         {
           "r": 24,
@@ -1207,6 +1249,14 @@ window.UNICAL_GAMES_DATA = {
           "kind": "match"
         },
         {
+          "r": 26,
+          "c": 3,
+          "v": "DICES (2-1)",
+          "kind": "result",
+          "team": "DICES",
+          "score": "2-1"
+        },
+        {
           "r": 27,
           "c": 2,
           "v": "DESF",
@@ -1214,14 +1264,6 @@ window.UNICAL_GAMES_DATA = {
         }
       ],
       "matches": [
-        {
-          "label": "gara 17",
-          "row": 5,
-          "teams": [
-            "DISPES"
-          ],
-          "placeholders": []
-        },
         {
           "label": "gara 15",
           "row": 7,
@@ -1232,20 +1274,69 @@ window.UNICAL_GAMES_DATA = {
           "placeholders": []
         },
         {
-          "label": "gara 21",
-          "row": 8,
+          "label": "gara 16",
+          "row": 26,
           "teams": [
+            "DICES",
+            "DICES (2-1)",
+            "DESF"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 17",
+          "row": 5,
+          "teams": [
+            "DISU",
+            "DISPES",
             "CTC"
           ],
-          "placeholders": [
-            "perdente gara 11"
-          ]
+          "placeholders": []
         },
         {
           "label": "gara 18",
           "row": 12,
           "teams": [
+            "DIMES",
             "DIAM"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 19",
+          "row": 18,
+          "teams": [
+            "FISICA",
+            "DINCI"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 20",
+          "row": 24,
+          "teams": [
+            "DFSSN",
+            "DICES",
+            "DICES (2-1)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 21",
+          "row": 8,
+          "teams": [
+            "DISPES",
+            "CTC",
+            "DIMES"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 22",
+          "row": 21,
+          "teams": [
+            "DINCI",
+            "DFSSN"
           ],
           "placeholders": []
         },
@@ -1255,40 +1346,6 @@ window.UNICAL_GAMES_DATA = {
           "teams": [
             "DIAM",
             "FISICA"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 19",
-          "row": 18,
-          "teams": [],
-          "placeholders": [
-            "perdente gara 10"
-          ]
-        },
-        {
-          "label": "gara 22",
-          "row": 21,
-          "teams": [],
-          "placeholders": [
-            "perdente gara 10",
-            "perdente gara 5"
-          ]
-        },
-        {
-          "label": "gara 20",
-          "row": 24,
-          "teams": [
-            "DICES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 16",
-          "row": 26,
-          "teams": [
-            "DICES",
-            "DESF"
           ],
           "placeholders": []
         }
@@ -1326,6 +1383,22 @@ window.UNICAL_GAMES_DATA = {
           "c": 2,
           "v": "gara 2",
           "kind": "match"
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "v": "DIMEG (2-0)",
+          "kind": "result",
+          "team": "DIMEG",
+          "score": "2-0"
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "v": "DISU (2-0)",
+          "kind": "result",
+          "team": "DISU",
+          "score": "2-0"
         },
         {
           "r": 4,
@@ -1380,6 +1453,22 @@ window.UNICAL_GAMES_DATA = {
           "c": 2,
           "v": "gara 3",
           "kind": "match"
+        },
+        {
+          "r": 12,
+          "c": 3,
+          "v": "DIAM (2-1)",
+          "kind": "result",
+          "team": "DIAM",
+          "score": "2-1"
+        },
+        {
+          "r": 12,
+          "c": 7,
+          "v": "DIBEST (ND)",
+          "kind": "result",
+          "team": "DIBEST",
+          "score": "ND"
         },
         {
           "r": 12,
@@ -1454,47 +1543,23 @@ window.UNICAL_GAMES_DATA = {
       ],
       "matches": [
         {
+          "label": "gara 1",
+          "row": 14,
+          "teams": [
+            "DIAM (2-1)",
+            "DIMES",
+            "DIMES (2-0)",
+            "DEMACS"
+          ],
+          "placeholders": []
+        },
+        {
           "label": "gara 2",
           "row": 4,
           "teams": [
-            "DINCI",
-            "DFSSN"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 6",
-          "row": 4,
-          "teams": [
-            "DINCI",
-            "DFSSN"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 4",
-          "row": 8,
-          "teams": [
-            "DIAM",
-            "CTC"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 9",
-          "row": 8,
-          "teams": [
-            "DIAM",
-            "CTC"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 8",
-          "row": 8,
-          "teams": [
-            "DIAM",
-            "CTC"
+            "DIMEG",
+            "DIMEG (2-0)",
+            "DINCI"
           ],
           "placeholders": []
         },
@@ -1502,34 +1567,25 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 3",
           "row": 12,
           "teams": [
+            "DIAM",
+            "DIAM (2-1)",
             "DIMES",
-            "DIBEST",
-            "DIMES (2-0)",
-            "DIBEST (2-1)"
+            "DIMES (2-0)"
           ],
           "placeholders": []
         },
         {
-          "label": "gara 7",
-          "row": 12,
-          "teams": [
-            "DIMES",
-            "DIBEST",
-            "DIMES (2-0)",
-            "DIBEST (2-1)"
-          ],
+          "label": "finale 3° posto",
+          "row": 18,
+          "teams": [],
           "placeholders": []
         },
         {
-          "label": "gara 1",
-          "row": 14,
+          "label": "gara 4",
+          "row": 8,
           "teams": [
-            "DIMES",
-            "DIBEST",
-            "DIMES (2-0)",
-            "DIBEST (2-1)",
-            "DEMACS",
-            "FISICA"
+            "DINCI",
+            "DIAM"
           ],
           "placeholders": []
         },
@@ -1537,18 +1593,46 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 5",
           "row": 14,
           "teams": [
-            "DIMES",
+            "DIBEST (ND)",
             "DIBEST",
-            "DIMES (2-0)",
             "DIBEST (2-1)",
-            "DEMACS",
             "FISICA"
           ],
           "placeholders": []
         },
         {
-          "label": "finale 3° posto",
-          "row": 18,
+          "label": "gara 6",
+          "row": 4,
+          "teams": [
+            "DISU",
+            "DISU (2-0)",
+            "DFSSN"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 7",
+          "row": 12,
+          "teams": [
+            "CTC",
+            "DIBEST (ND)",
+            "DIBEST",
+            "DIBEST (2-1)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 8",
+          "row": 8,
+          "teams": [
+            "DFSSN",
+            "CTC"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 9",
+          "row": 8,
           "teams": [],
           "placeholders": []
         },
@@ -1566,8 +1650,8 @@ window.UNICAL_GAMES_DATA = {
       "discipline": "Tennis",
       "stage": "Silver",
       "type": "bracket",
-      "rows": 16,
-      "cols": 4,
+      "rows": 18,
+      "cols": 9,
       "cells": [
         {
           "r": 2,
@@ -1578,8 +1662,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 4,
           "c": 2,
-          "v": "perdente gara 2",
-          "kind": "placeholder"
+          "v": "DINCI",
+          "kind": "team"
         },
         {
           "r": 6,
@@ -1602,8 +1686,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 9,
           "c": 1,
-          "v": "perdente gara 3",
-          "kind": "placeholder"
+          "v": "DIMES",
+          "kind": "team"
         },
         {
           "r": 10,
@@ -1626,8 +1710,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 13,
           "c": 1,
-          "v": "perdente gara 7",
-          "kind": "placeholder"
+          "v": "CTC",
+          "kind": "team"
         },
         {
           "r": 14,
@@ -1638,57 +1722,55 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 16,
           "c": 2,
-          "v": "perdente gara 6",
-          "kind": "placeholder"
+          "v": "DFSSN",
+          "kind": "team"
         }
       ],
       "matches": [
         {
-          "label": "gara 13",
-          "row": 6,
-          "teams": [
-            "FISICA"
-          ],
-          "placeholders": []
-        },
-        {
           "label": "gara 11",
           "row": 8,
           "teams": [
-            "FISICA"
+            "FISICA",
+            "DIMES"
           ],
-          "placeholders": [
-            "perdente gara 3"
-          ]
-        },
-        {
-          "label": "gara 15",
-          "row": 10,
-          "teams": [
-            "DEMACS"
-          ],
-          "placeholders": [
-            "perdente gara 3"
-          ]
+          "placeholders": []
         },
         {
           "label": "gara 12",
           "row": 12,
           "teams": [
-            "DEMACS"
+            "DEMACS",
+            "CTC"
           ],
-          "placeholders": [
-            "perdente gara 7"
-          ]
+          "placeholders": []
+        },
+        {
+          "label": "gara 13",
+          "row": 6,
+          "teams": [
+            "DINCI",
+            "FISICA"
+          ],
+          "placeholders": []
         },
         {
           "label": "gara 14",
           "row": 14,
-          "teams": [],
-          "placeholders": [
-            "perdente gara 7",
-            "perdente gara 6"
-          ]
+          "teams": [
+            "CTC",
+            "DFSSN"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 15",
+          "row": 10,
+          "teams": [
+            "DIMES",
+            "DEMACS"
+          ],
+          "placeholders": []
         }
       ],
       "groups": []
@@ -1697,9 +1779,9 @@ window.UNICAL_GAMES_DATA = {
       "name": "Pallacanestro",
       "discipline": "Pallacanestro",
       "stage": "Gironi + finali",
-      "type": "gironi",
-      "rows": 39,
-      "cols": 10,
+      "type": "bracket",
+      "rows": 29,
+      "cols": 11,
       "cells": [
         {
           "r": 2,
@@ -1798,6 +1880,12 @@ window.UNICAL_GAMES_DATA = {
           "kind": "text"
         },
         {
+          "r": 7,
+          "c": 5,
+          "v": "11-3 11-7",
+          "kind": "text"
+        },
+        {
           "r": 8,
           "c": 1,
           "v": "gara 2",
@@ -1816,6 +1904,18 @@ window.UNICAL_GAMES_DATA = {
           "kind": "team"
         },
         {
+          "r": 8,
+          "c": 4,
+          "v": "0-2",
+          "kind": "text"
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "v": "9-11 7-11",
+          "kind": "text"
+        },
+        {
           "r": 9,
           "c": 1,
           "v": "gara 3",
@@ -1832,6 +1932,18 @@ window.UNICAL_GAMES_DATA = {
           "c": 3,
           "v": "FISICA",
           "kind": "team"
+        },
+        {
+          "r": 9,
+          "c": 4,
+          "v": "2-0",
+          "kind": "text"
+        },
+        {
+          "r": 9,
+          "c": 5,
+          "v": "11-1 11-8",
+          "kind": "text"
         },
         {
           "r": 10,
@@ -1858,6 +1970,12 @@ window.UNICAL_GAMES_DATA = {
           "kind": "text"
         },
         {
+          "r": 10,
+          "c": 8,
+          "v": "11-4 11-7",
+          "kind": "text"
+        },
+        {
           "r": 11,
           "c": 1,
           "v": "gara 5",
@@ -1876,6 +1994,18 @@ window.UNICAL_GAMES_DATA = {
           "kind": "team"
         },
         {
+          "r": 11,
+          "c": 7,
+          "v": "2-0",
+          "kind": "text"
+        },
+        {
+          "r": 11,
+          "c": 8,
+          "v": "11-2 11-2 (ND)",
+          "kind": "result"
+        },
+        {
           "r": 12,
           "c": 1,
           "v": "gara 6",
@@ -1892,6 +2022,18 @@ window.UNICAL_GAMES_DATA = {
           "c": 6,
           "v": "DEMACS",
           "kind": "team"
+        },
+        {
+          "r": 12,
+          "c": 7,
+          "v": "2-0",
+          "kind": "text"
+        },
+        {
+          "r": 12,
+          "c": 8,
+          "v": "11-2 11-2 (ND)",
+          "kind": "result"
         },
         {
           "r": 13,
@@ -1918,6 +2060,12 @@ window.UNICAL_GAMES_DATA = {
           "kind": "text"
         },
         {
+          "r": 13,
+          "c": 11,
+          "v": "11-1 11-2",
+          "kind": "text"
+        },
+        {
           "r": 14,
           "c": 1,
           "v": "gara 8",
@@ -1934,6 +2082,18 @@ window.UNICAL_GAMES_DATA = {
           "c": 9,
           "v": "DINCI",
           "kind": "team"
+        },
+        {
+          "r": 14,
+          "c": 10,
+          "v": "0-2",
+          "kind": "text"
+        },
+        {
+          "r": 14,
+          "c": 11,
+          "v": "1-11 1-11",
+          "kind": "text"
         },
         {
           "r": 15,
@@ -1954,10 +2114,22 @@ window.UNICAL_GAMES_DATA = {
           "kind": "team"
         },
         {
+          "r": 15,
+          "c": 10,
+          "v": "2-0",
+          "kind": "text"
+        },
+        {
+          "r": 15,
+          "c": 11,
+          "v": "12-10 11-5",
+          "kind": "text"
+        },
+        {
           "r": 17,
           "c": 2,
-          "v": "prima girone",
-          "kind": "placeholder"
+          "v": "DIMES",
+          "kind": "team"
         },
         {
           "r": 19,
@@ -1974,8 +2146,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 21,
           "c": 2,
-          "v": "miglior seconda",
-          "kind": "placeholder"
+          "v": "DIMEG",
+          "kind": "team"
         },
         {
           "r": 23,
@@ -1992,8 +2164,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 25,
           "c": 2,
-          "v": "prima girone",
-          "kind": "placeholder"
+          "v": "DFSSN",
+          "kind": "team"
         },
         {
           "r": 27,
@@ -2010,86 +2182,8 @@ window.UNICAL_GAMES_DATA = {
         {
           "r": 29,
           "c": 2,
-          "v": "prima girone",
-          "kind": "placeholder"
-        },
-        {
-          "r": 32,
-          "c": 4,
-          "v": "GIRONE finale",
-          "kind": "title"
-        },
-        {
-          "r": 33,
-          "c": 4,
-          "v": "prima girone A",
-          "kind": "placeholder"
-        },
-        {
-          "r": 34,
-          "c": 4,
-          "v": "prima girone B",
-          "kind": "placeholder"
-        },
-        {
-          "r": 35,
-          "c": 4,
-          "v": "prima girone C",
-          "kind": "placeholder"
-        },
-        {
-          "r": 37,
-          "c": 3,
-          "v": "gara 10",
-          "kind": "match"
-        },
-        {
-          "r": 37,
-          "c": 4,
-          "v": "prima girone A",
-          "kind": "placeholder"
-        },
-        {
-          "r": 37,
-          "c": 5,
-          "v": "prima girone B",
-          "kind": "placeholder"
-        },
-        {
-          "r": 38,
-          "c": 3,
-          "v": "gara 11",
-          "kind": "match"
-        },
-        {
-          "r": 38,
-          "c": 4,
-          "v": "perdente gara 10",
-          "kind": "placeholder"
-        },
-        {
-          "r": 38,
-          "c": 5,
-          "v": "prima girone C",
-          "kind": "placeholder"
-        },
-        {
-          "r": 39,
-          "c": 3,
-          "v": "gara 12",
-          "kind": "match"
-        },
-        {
-          "r": 39,
-          "c": 4,
-          "v": "vincente gara 10",
-          "kind": "text"
-        },
-        {
-          "r": 39,
-          "c": 5,
-          "v": "prima girone C",
-          "kind": "placeholder"
+          "v": "DINCI",
+          "kind": "team"
         }
       ],
       "matches": [
@@ -2097,12 +2191,11 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 1",
           "row": 7,
           "teams": [
-            "DIMES",
-            "DIAM",
-            "DIAM",
             "FISICA",
+            "DEMACS",
+            "DINCI",
             "DIMES",
-            "FISICA"
+            "DIAM"
           ],
           "placeholders": []
         },
@@ -2112,20 +2205,6 @@ window.UNICAL_GAMES_DATA = {
           "teams": [
             "DIMES",
             "DIAM",
-            "DIAM",
-            "FISICA",
-            "DIMES",
-            "FISICA"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "gara 3",
-          "row": 9,
-          "teams": [
-            "DIAM",
-            "FISICA",
-            "DIMES",
             "FISICA",
             "DFSSN",
             "DIBEST"
@@ -2133,15 +2212,30 @@ window.UNICAL_GAMES_DATA = {
           "placeholders": []
         },
         {
-          "label": "gara 4",
-          "row": 10,
+          "label": "gara 3",
+          "row": 9,
           "teams": [
             "DIMES",
+            "DIAM",
             "FISICA",
             "DFSSN",
             "DIBEST",
+            "DEMACS",
+            "11-2 11-2 (ND)"
+          ],
+          "placeholders": []
+        },
+        {
+          "label": "gara 4",
+          "row": 10,
+          "teams": [
+            "DIAM",
+            "FISICA",
+            "DIMES",
+            "DFSSN",
             "DIBEST",
-            "DEMACS"
+            "DEMACS",
+            "11-2 11-2 (ND)"
           ],
           "placeholders": []
         },
@@ -2149,12 +2243,14 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 5",
           "row": 11,
           "teams": [
+            "DIMES",
+            "FISICA",
             "DFSSN",
-            "DIBEST",
             "DIBEST",
             "DEMACS",
-            "DFSSN",
-            "DEMACS"
+            "11-2 11-2 (ND)",
+            "DIMEG",
+            "CTC"
           ],
           "placeholders": []
         },
@@ -2162,12 +2258,13 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 6",
           "row": 12,
           "teams": [
+            "DFSSN",
             "DIBEST",
             "DEMACS",
-            "DFSSN",
-            "DEMACS",
+            "11-2 11-2 (ND)",
             "DIMEG",
-            "CTC"
+            "CTC",
+            "DINCI"
           ],
           "placeholders": []
         },
@@ -2175,10 +2272,11 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 7",
           "row": 13,
           "teams": [
-            "DFSSN",
+            "DIBEST",
             "DEMACS",
+            "11-2 11-2 (ND)",
+            "DFSSN",
             "DIMEG",
-            "CTC",
             "CTC",
             "DINCI"
           ],
@@ -2188,11 +2286,11 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 8",
           "row": 14,
           "teams": [
+            "DFSSN",
+            "DEMACS",
+            "11-2 11-2 (ND)",
             "DIMEG",
             "CTC",
-            "CTC",
-            "DINCI",
-            "DIMEG",
             "DINCI"
           ],
           "placeholders": []
@@ -2201,182 +2299,69 @@ window.UNICAL_GAMES_DATA = {
           "label": "gara 9",
           "row": 15,
           "teams": [
+            "DIMEG",
             "CTC",
             "DINCI",
-            "DIMEG",
-            "DINCI"
+            "DIMES"
           ],
-          "placeholders": [
-            "prima girone"
-          ]
+          "placeholders": []
         },
         {
           "label": "gara 10",
           "row": 19,
-          "teams": [],
+          "teams": [
+            "DIMES",
+            "DIMEG"
+          ],
           "placeholders": [
-            "perdente gara 10",
-            "miglior seconda"
-          ]
-        },
-        {
-          "label": "gara 12",
-          "row": 23,
-          "teams": [],
-          "placeholders": [
-            "prima girone"
-          ]
-        },
-        {
-          "label": "gara 13",
-          "row": 23,
-          "teams": [],
-          "placeholders": [
-            "prima girone"
+            "perdente gara 10"
           ]
         },
         {
           "label": "gara 11",
           "row": 27,
-          "teams": [],
+          "teams": [
+            "DFSSN",
+            "DINCI"
+          ],
           "placeholders": [
-            "perdente gara 11",
-            "prima girone"
-          ]
-        },
-        {
-          "label": "gara 10",
-          "row": 37,
-          "teams": [],
-          "placeholders": [
-            "prima girone A",
-            "prima girone B",
-            "perdente gara 10",
-            "prima girone C"
-          ]
-        },
-        {
-          "label": "gara 11",
-          "row": 38,
-          "teams": [],
-          "placeholders": [
-            "prima girone A",
-            "prima girone B",
-            "perdente gara 10",
-            "prima girone C"
+            "perdente gara 11"
           ]
         },
         {
           "label": "gara 12",
-          "row": 39,
-          "teams": [],
-          "placeholders": [
-            "perdente gara 10",
-            "prima girone C",
-            "prima girone C"
-          ]
-        }
-      ],
-      "groups": [
-        {
-          "name": "Girone A",
-          "teams": [
-            "DIMES",
-            "DIAM",
-            "FISICA"
-          ],
-          "games": [
-            {
-              "label": "gara 1",
-              "team1": "DIMES",
-              "team2": "DIAM",
-              "score": "2-0"
-            },
-            {
-              "label": "gara 2",
-              "team1": "DIAM",
-              "team2": "FISICA",
-              "score": ""
-            },
-            {
-              "label": "gara 3",
-              "team1": "DIMES",
-              "team2": "FISICA",
-              "score": ""
-            }
-          ]
-        },
-        {
-          "name": "Girone B",
-          "teams": [
-            "DFSSN",
-            "DIBEST",
-            "DEMACS"
-          ],
-          "games": [
-            {
-              "label": "gara 4",
-              "team1": "DFSSN",
-              "team2": "DIBEST",
-              "score": "2-0"
-            },
-            {
-              "label": "gara 5",
-              "team1": "DIBEST",
-              "team2": "DEMACS",
-              "score": ""
-            },
-            {
-              "label": "gara 6",
-              "team1": "DFSSN",
-              "team2": "DEMACS",
-              "score": ""
-            }
-          ]
-        },
-        {
-          "name": "Girone C",
+          "row": 23,
           "teams": [
             "DIMEG",
-            "CTC",
-            "DINCI"
+            "DFSSN"
           ],
-          "games": [
-            {
-              "label": "gara 7",
-              "team1": "DIMEG",
-              "team2": "CTC",
-              "score": "2-0"
-            },
-            {
-              "label": "gara 8",
-              "team1": "CTC",
-              "team2": "DINCI",
-              "score": ""
-            },
-            {
-              "label": "gara 9",
-              "team1": "DIMEG",
-              "team2": "DINCI",
-              "score": ""
-            }
-          ]
+          "placeholders": []
+        },
+        {
+          "label": "gara 13",
+          "row": 23,
+          "teams": [
+            "DIMEG",
+            "DFSSN"
+          ],
+          "placeholders": []
         }
-      ]
+      ],
+      "groups": []
     },
     {
       "name": "Calcio balilla",
-      "discipline": "Calcio balilla",
-      "stage": "Calendario",
-      "type": "round-robin",
+      "discipline": "Calcio",
+      "stage": "balilla",
+      "type": "bracket",
       "rows": 29,
-      "cols": 7,
+      "cols": 9,
       "cells": [
         {
           "r": 1,
           "c": 1,
           "v": "Partita",
-          "kind": "match"
+          "kind": "text"
         },
         {
           "r": 1,
@@ -2951,21 +2936,17 @@ window.UNICAL_GAMES_DATA = {
       ],
       "matches": [
         {
-          "label": "Partita",
-          "row": 1,
+          "label": "Semifinale 1",
+          "row": 25,
           "teams": [
-            "CTC",
-            "DICES",
-            "CTC",
-            "DICES",
-            "DIBEST",
+            "DIMEG",
             "DICES"
           ],
           "placeholders": []
         },
         {
-          "label": "Semifinale 1",
-          "row": 25,
+          "label": "Finale 1°-2°",
+          "row": 29,
           "teams": [],
           "placeholders": []
         },
@@ -2979,210 +2960,6 @@ window.UNICAL_GAMES_DATA = {
           "label": "Finale 3°-4°",
           "row": 28,
           "teams": [],
-          "placeholders": []
-        },
-        {
-          "label": "Finale 1°-2°",
-          "row": 29,
-          "teams": [],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 1",
-          "row": 2,
-          "teams": [
-            "CTC",
-            "DICES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 2",
-          "row": 3,
-          "teams": [
-            "DICES",
-            "DIBEST"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 3",
-          "row": 4,
-          "teams": [
-            "DIBEST",
-            "DEMACS"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 4",
-          "row": 5,
-          "teams": [
-            "DEMACS",
-            "DINCI"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 5",
-          "row": 6,
-          "teams": [
-            "DINCI",
-            "DFSSN"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 6",
-          "row": 7,
-          "teams": [
-            "DFSSN",
-            "DISPES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 7",
-          "row": 8,
-          "teams": [
-            "DISPES",
-            "DIMES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 8",
-          "row": 9,
-          "teams": [
-            "DIMES",
-            "DIAM"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 9",
-          "row": 10,
-          "teams": [
-            "DIAM",
-            "FISICA"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 10",
-          "row": 11,
-          "teams": [
-            "FISICA",
-            "DIMEG"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 11",
-          "row": 12,
-          "teams": [
-            "DIMEG",
-            "CTC"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 12",
-          "row": 13,
-          "teams": [
-            "CTC",
-            "DIBEST"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 13",
-          "row": 14,
-          "teams": [
-            "DICES",
-            "DEMACS"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 14",
-          "row": 15,
-          "teams": [
-            "DIBEST",
-            "DINCI"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 15",
-          "row": 16,
-          "teams": [
-            "DEMACS",
-            "DFSSN"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 16",
-          "row": 17,
-          "teams": [
-            "DINCI",
-            "DISPES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 17",
-          "row": 18,
-          "teams": [
-            "DFSSN",
-            "DIMES"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 18",
-          "row": 19,
-          "teams": [
-            "DISPES",
-            "DIAM"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 19",
-          "row": 20,
-          "teams": [
-            "DIMES",
-            "FISICA"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 20",
-          "row": 21,
-          "teams": [
-            "DIAM",
-            "DIMEG"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 21",
-          "row": 22,
-          "teams": [
-            "FISICA",
-            "CTC"
-          ],
-          "placeholders": []
-        },
-        {
-          "label": "Partita 22",
-          "row": 23,
-          "teams": [
-            "DIMEG",
-            "DICES"
-          ],
           "placeholders": []
         }
       ],
@@ -3912,322 +3689,742 @@ window.UNICAL_GAMES_DATA = {
   "schedule": [
     {
       "data": "2026-06-08",
-      "ora": "17:00",
+      "ora": "18:00",
       "disciplina": "Calcio",
-      "fase": "Golden",
-      "gara": "gara 4",
-      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1)",
-      "luogo": "Campo Chiodo 2",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DESF - DISPES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "FISICA - DFSSN",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DISU - DEMACS",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DISPES - DISCAG",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DISCAG - DICES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
       "placeholder": true
     },
     {
       "data": "2026-06-09",
       "ora": "18:00",
       "disciplina": "Calcio",
-      "fase": "Golden",
-      "gara": "gara 10",
-      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1)",
-      "luogo": "Campo Chiodo 2",
-      "placeholder": true
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DIMEG - CTC",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "18:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 1",
+      "squadre": "DIMES - DIAM",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DISU - DIAM",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DIBEST - DIMES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "19:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 2",
+      "squadre": "DFSSN - DIBEST",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "CTC - DIBEST",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DIMES - DEMACS",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DFSSN - DINCI",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "20:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 3",
+      "squadre": "DIMEG - CTC",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DIMES - DESF",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DIBEST - FISICA",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "18:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DISU - DIBEST",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "18:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 1",
+      "squadre": "DIAM - FISICA",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DISPES - CTC",
+      "luogo": "PalaCUS",
+      "placeholder": false
     },
     {
       "data": "2026-06-10",
       "ora": "19:00",
       "disciplina": "Calcio",
-      "fase": "Golden",
-      "gara": "gara 1",
-      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1) vs DISPES vs DIMES",
-      "luogo": "Campo Chiodo 2",
-      "placeholder": true
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DIAM - DESF",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "19:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 2",
+      "squadre": "DIBEST - DEMACS",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DIMEG - DISU",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DIMEG - DINCI",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DIMEG - DEMACS",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "20:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 3",
+      "squadre": "CTC - DINCI",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DISCAG-DFSSN",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DISU - DFSSN",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "18:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DINCI - DICES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "18:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 1",
+      "squadre": "DIMES-FISICA",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DICES - DESF",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "FISICA - DIMES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "19:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 2",
+      "squadre": "DFSSN-DEMACS",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DINCI - DIBEST",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DIAM - DIMES",
+      "luogo": "Chiodo 2",
+      "placeholder": false
     },
     {
       "data": "2026-06-11",
       "ora": "20:00",
       "disciplina": "Calcio",
-      "fase": "Golden",
-      "gara": "gara 7",
-      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1) vs DISPES vs DIMES",
-      "luogo": "Campo Chiodo 2",
-      "placeholder": true
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DISCAG - DFSSN",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
     },
     {
-      "data": "2026-06-12",
-      "ora": "21:00",
-      "disciplina": "Calcio",
-      "fase": "Silver",
-      "gara": "gara 17",
-      "squadre": "DISU",
-      "luogo": "Campo Chiodo 2",
-      "placeholder": true
+      "data": "2026-06-11",
+      "ora": "20:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 3",
+      "squadre": "DIMEG-DINCI",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DEMACS - DIMES",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "CTC - DIBEST",
+      "luogo": "Chiodo 2",
+      "placeholder": false
     },
     {
       "data": "2026-06-15",
-      "ora": "17:00",
+      "ora": "18:00",
       "disciplina": "Calcio",
-      "fase": "Silver",
-      "gara": "gara 15",
-      "squadre": "DISU vs DIBEST",
-      "luogo": "Campo Chiodo 2",
-      "placeholder": true
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DIAM-DIBEST",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "18:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 1",
+      "squadre": "DIMES - DIMEG",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DISU-CTC",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DFSSN-DISPES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "19:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Gara 2",
+      "squadre": "DFSSN - DINCI",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DIMES-DIAM",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DIMEG-DIAM",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "CTC-DIMES",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "FISICA-DINCI",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DISU-DIBEST",
+      "luogo": "Chiodo 2",
+      "placeholder": false
     },
     {
       "data": "2026-06-16",
       "ora": "18:00",
       "disciplina": "Calcio",
-      "fase": "Silver",
-      "gara": "gara 21",
-      "squadre": "DIBEST",
-      "luogo": "Campo Chiodo 2",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DEMACS-DINCI",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "18:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Finale 3° Posto",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "DFSSN-DICES",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DESF-DIMEG",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "19:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "Finale",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DIMEG-DISCAG",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "FISICA-DIMES",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "FISICA-DISCAG",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "DIBEST-DEMACS",
+      "luogo": "PalaCUS",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "DEMACS-CTC",
+      "luogo": "Chiodo 2",
+      "placeholder": false
+    },
+    {
+      "data": "2026-06-17",
+      "ora": "18:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "Da definire",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-17",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
       "placeholder": true
     },
     {
       "data": "2026-06-17",
       "ora": "19:00",
       "disciplina": "Calcio",
-      "fase": "Silver",
-      "gara": "gara 18",
-      "squadre": "DISPES",
-      "luogo": "Campo Chiodo 2",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "Da definire",
+      "luogo": "Quartiere Chiodo 2",
       "placeholder": true
     },
     {
-      "data": "2026-06-18",
-      "ora": "20:00",
-      "disciplina": "Pallavolo",
-      "fase": "Golden",
-      "gara": "gara 4",
-      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0)",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-19",
-      "ora": "21:00",
-      "disciplina": "Pallavolo",
-      "fase": "Golden",
-      "gara": "gara 10",
-      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0)",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-08",
-      "ora": "17:00",
-      "disciplina": "Pallavolo",
-      "fase": "Golden",
-      "gara": "gara 1",
-      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0) vs DIAM vs DIBEST",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-09",
-      "ora": "18:00",
-      "disciplina": "Pallavolo",
-      "fase": "Golden",
-      "gara": "gara 7",
-      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0) vs DIAM vs DIBEST",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-10",
+      "data": "2026-06-17",
       "ora": "19:00",
       "disciplina": "Pallavolo",
-      "fase": "Silver",
-      "gara": "gara 17",
-      "squadre": "DISPES",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "Da definire",
       "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-11",
-      "ora": "20:00",
-      "disciplina": "Pallavolo",
-      "fase": "Silver",
-      "gara": "gara 15",
-      "squadre": "DISPES vs CTC",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-12",
-      "ora": "21:00",
-      "disciplina": "Pallavolo",
-      "fase": "Silver",
-      "gara": "gara 21",
-      "squadre": "CTC",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-15",
-      "ora": "17:00",
-      "disciplina": "Pallavolo",
-      "fase": "Silver",
-      "gara": "gara 18",
-      "squadre": "DIAM",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-16",
-      "ora": "18:00",
-      "disciplina": "Tennis",
-      "fase": "Golden",
-      "gara": "gara 2",
-      "squadre": "DINCI vs DFSSN",
-      "luogo": "Campi Chiodo 2",
       "placeholder": true
     },
     {
       "data": "2026-06-17",
       "ora": "19:00",
       "disciplina": "Tennis",
-      "fase": "Golden",
-      "gara": "gara 6",
-      "squadre": "DINCI vs DFSSN",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-18",
-      "ora": "20:00",
-      "disciplina": "Tennis",
-      "fase": "Golden",
-      "gara": "gara 4",
-      "squadre": "DIAM vs CTC",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-19",
-      "ora": "21:00",
-      "disciplina": "Tennis",
-      "fase": "Golden",
-      "gara": "gara 9",
-      "squadre": "DIAM vs CTC",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-08",
-      "ora": "17:00",
-      "disciplina": "Tennis",
-      "fase": "Silver",
-      "gara": "gara 13",
-      "squadre": "FISICA",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-09",
-      "ora": "18:00",
-      "disciplina": "Tennis",
-      "fase": "Silver",
-      "gara": "gara 11",
-      "squadre": "FISICA",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-10",
-      "ora": "19:00",
-      "disciplina": "Tennis",
-      "fase": "Silver",
-      "gara": "gara 15",
-      "squadre": "DEMACS",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-11",
-      "ora": "20:00",
-      "disciplina": "Tennis",
-      "fase": "Silver",
-      "gara": "gara 12",
-      "squadre": "DEMACS",
-      "luogo": "Campi Chiodo 2",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-12",
-      "ora": "21:00",
-      "disciplina": "Pallacanestro",
-      "fase": "Gironi + finali",
-      "gara": "gara 1",
-      "squadre": "DIMES vs DIAM vs DIAM vs FISICA vs DIMES vs FISICA",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-15",
-      "ora": "17:00",
-      "disciplina": "Pallacanestro",
-      "fase": "Gironi + finali",
-      "gara": "gara 2",
-      "squadre": "DIMES vs DIAM vs DIAM vs FISICA vs DIMES vs FISICA",
-      "luogo": "PalaCUS",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-16",
-      "ora": "18:00",
-      "disciplina": "Pallacanestro",
-      "fase": "Gironi + finali",
-      "gara": "gara 3",
-      "squadre": "DIAM vs FISICA vs DIMES vs FISICA vs DFSSN vs DIBEST",
-      "luogo": "PalaCUS",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "Da definire",
+      "luogo": "Chiodo 2",
       "placeholder": true
     },
     {
       "data": "2026-06-17",
-      "ora": "19:00",
-      "disciplina": "Pallacanestro",
-      "fase": "Gironi + finali",
-      "gara": "gara 4",
-      "squadre": "DIMES vs FISICA vs DFSSN vs DIBEST vs DIBEST vs DEMACS",
-      "luogo": "PalaCUS",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "Da definire",
+      "luogo": "Chiodo 2",
       "placeholder": true
     },
     {
       "data": "2026-06-18",
-      "ora": "20:00",
-      "disciplina": "Calcio balilla",
-      "fase": "Calendario",
-      "gara": "Partita",
-      "squadre": "CTC vs DICES vs CTC vs DICES vs DIBEST vs DICES",
-      "luogo": "Area giochi",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "Da definire",
+      "luogo": "Chiodo 2",
       "placeholder": true
     },
     {
       "data": "2026-06-19",
-      "ora": "21:00",
-      "disciplina": "Calcio balilla",
-      "fase": "Calendario",
-      "gara": "Semifinale 1",
-      "squadre": "Da definire",
-      "luogo": "Area giochi",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-08",
-      "ora": "17:00",
-      "disciplina": "Calcio balilla",
-      "fase": "Calendario",
-      "gara": "Semifinale 2",
-      "squadre": "Da definire",
-      "luogo": "Area giochi",
-      "placeholder": true
-    },
-    {
-      "data": "2026-06-09",
       "ora": "18:00",
-      "disciplina": "Calcio balilla",
-      "fase": "Calendario",
-      "gara": "Finale 3°-4°",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
       "squadre": "Da definire",
-      "luogo": "Area giochi",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "Da definire",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 1",
+      "squadre": "Da definire",
+      "luogo": "Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "Da definire",
+      "luogo": "Quartiere Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden/Silver",
+      "gara": "Gara 3",
+      "squadre": "Da definire",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden/Silver",
+      "gara": "Gara 2",
+      "squadre": "Da definire",
+      "luogo": "Chiodo 2",
       "placeholder": true
     }
   ]

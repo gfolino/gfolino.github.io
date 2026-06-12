@@ -317,7 +317,7 @@ function renderSchedule() {
         <td><span class="badge">${esc(item.disciplina)}</span></td>
         <td><strong>${esc(item.gara)}</strong><div class="muted">${esc(item.fase)} · ${esc(item.squadre)}</div></td>
         <td>${esc(item.luogo)}</td>
-        <td><span class="status-pill ${item.placeholder ? 'placeholder' : ''}">${item.placeholder ? 'Fittizio' : 'Confermato'}</span></td>
+        <td><span class="status-pill ${item.placeholder ? 'placeholder' : ''}">${item.placeholder ? 'Da definire' : 'Confermato'}</span></td>
       </tr>`).join('');
     return `<article class="schedule-day"><h3>${esc(label)}</h3><div class="schedule-table-wrap"><table class="schedule-table"><thead><tr><th>Ora</th><th>Disciplina</th><th>Gara</th><th>Luogo</th><th>Stato</th></tr></thead><tbody>${rows}</tbody></table></div></article>`;
   }).join('') : '<div class="empty-state"><h3>Nessun orario trovato</h3><p>Prova a cambiare ricerca o filtri.</p></div>';
@@ -326,7 +326,7 @@ function renderSchedule() {
       <div>
         <p class="eyebrow">Orari di gioco</p>
         <h2>Calendario gare</h2>
-        <p class="muted">Gli orari sotto sono <strong>fittizi/placeholder</strong> dove non disponibili: servono come base ordinata da sostituire con il calendario ufficiale.</p>
+        <p class="muted">Calendario importato dagli Excel caricati. Le voci con squadre non ancora definite sono evidenziate come <strong>Da definire</strong>.</p>
       </div>
       <span class="badge">${filtered.length} eventi</span>
     </div>

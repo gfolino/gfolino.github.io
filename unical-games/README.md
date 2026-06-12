@@ -3,7 +3,7 @@
 Sito pronto per GitHub Pages con:
 
 - tab principale **Tabelloni**;
-- tab **Orari di gioco** con calendario placeholder/modificabile;
+- tab **Orari di gioco** con calendario reale importato dagli Excel;
 - tab **Formazioni**, con rose collegate alle squadre cliccabili nei tabelloni;
 - tab **Gestione risultati**, con modifica locale ed esportazione di `data.js`.
 
@@ -29,7 +29,7 @@ Apri il tab **Gestione risultati**, attiva la modifica, inserisci i risultati, p
 
 ## Aggiornare gli orari
 
-Gli orari inseriti nel tab **Orari di gioco** sono fittizi/placeholder. Per renderli ufficiali modifica l'array `schedule` nel file `data.js`, cambiando data, ora, disciplina, gara, squadre, luogo e `placeholder` da `true` a `false` quando l'orario è confermato.
+Gli orari nel tab **Orari di gioco** sono stati importati dagli Excel dei calendari. Le voci senza squadre definite restano marcate con `placeholder: true` e sono mostrate come 'Da definire'.
 
 ## Privacy formazioni
 
