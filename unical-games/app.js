@@ -1,6 +1,6 @@
 const BASE_DATA = window.UNICAL_GAMES_DATA;
 const STORAGE_KEY = 'unical-games-2026-results-v2';
-const state = { q: '', discipline: 'all', stage: 'all', edit: false, view: 'site', selectedTeam: null, selectedRosterDiscipline: null, data: null, overrides: loadOverrides() };
+const state = { q: '', discipline: 'all', stage: 'all', edit: false, mainTab: 'tabelloni', selectedTeam: null, selectedRosterDiscipline: null, data: null, overrides: loadOverrides() };
 const $ = s => document.querySelector(s);
 const norm = s => (s || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const cellKey = (sheetName, r, c) => `${sheetName}||${r}||${c}`;
@@ -13,6 +13,8 @@ function init() {
   render();
   renderAdmin();
   renderRosters();
+  renderSchedule();
+  showMainTab('tabelloni');
 
   $('#search').addEventListener('input', e => { state.q = e.target.value; render(); renderRosters(); });
   $('#discipline').addEventListener('change', e => { state.discipline = e.target.value; render(); renderAdmin(); renderRosters(); });
@@ -24,8 +26,7 @@ function init() {
   $('#downloadJsonBtn').addEventListener('click', exportOverridesJson);
   $('#importFile').addEventListener('change', importOverrides);
   $('#clearLocalBtn').addEventListener('click', clearLocalResults);
-  $('#adminJump').addEventListener('click', () => document.getElementById('admin').scrollIntoView({ behavior: 'smooth' }));
-  $('#rostersJump').addEventListener('click', () => { state.selectedTeam = null; renderRosters(); document.getElementById('rosters').scrollIntoView({ behavior: 'smooth' }); });
+  document.querySelectorAll('[data-main-tab]').forEach(btn => btn.addEventListener('click', () => showMainTab(btn.dataset.mainTab)));
   document.addEventListener('click', e => {
     const btn = e.target.closest('[data-team-roster]');
     const all = e.target.closest('[data-show-all-rosters]');
@@ -46,10 +47,22 @@ function init() {
       e.preventDefault();
       state.selectedRosterDiscipline = rosterTab.dataset.rosterTab || null;
       renderRosters();
+      showMainTab('formazioni');
     }
   });
 }
 
+function showMainTab(tab) {
+  state.mainTab = tab;
+  document.querySelectorAll('[data-main-tab]').forEach(btn => btn.classList.toggle('active', btn.dataset.mainTab === tab));
+  document.querySelectorAll('.app-section').forEach(panel => panel.classList.toggle('active', panel.id === `${tab}-panel`));
+  const toolbar = $('#filtersToolbar');
+  if (toolbar) toolbar.classList.toggle('hidden', !['tabelloni', 'formazioni'].includes(tab));
+  if (tab === 'formazioni') renderRosters();
+  if (tab === 'orari') renderSchedule();
+  if (tab === 'gestione') renderAdmin();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
 
 function loadOverrides() {
   try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
@@ -99,7 +112,7 @@ function openTeamRoster(team) {
   state.selectedTeam = team;
   state.selectedRosterDiscipline = null;
   renderRosters();
-  document.getElementById('rosters').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  showMainTab('formazioni');
 }
 
 function toggleTheme() {
@@ -281,6 +294,43 @@ function renderRosterDetail(r) {
 }
 function renderRosterCard(r) {
   return renderRosterDetail(r);
+}
+
+function renderSchedule() {
+  const schedule = state.data.schedule || [];
+  const filtered = schedule.filter(item => {
+    const hay = norm([item.disciplina, item.fase, item.gara, item.squadre, item.luogo, item.data, item.ora].join(' '));
+    if (state.discipline !== 'all' && item.disciplina !== state.discipline) return false;
+    if (state.stage !== 'all' && item.fase !== state.stage) return false;
+    return !state.q || hay.includes(norm(state.q));
+  });
+  const grouped = filtered.reduce((acc, item) => {
+    (acc[item.data] ||= []).push(item);
+    return acc;
+  }, {});
+  const dates = Object.keys(grouped).sort();
+  const body = dates.length ? dates.map(date => {
+    const label = new Intl.DateTimeFormat('it-IT', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(date + 'T12:00:00'));
+    const rows = grouped[date].sort((a, b) => a.ora.localeCompare(b.ora)).map(item => `
+      <tr>
+        <td><strong>${esc(item.ora)}</strong></td>
+        <td><span class="badge">${esc(item.disciplina)}</span></td>
+        <td><strong>${esc(item.gara)}</strong><div class="muted">${esc(item.fase)} · ${esc(item.squadre)}</div></td>
+        <td>${esc(item.luogo)}</td>
+        <td><span class="status-pill ${item.placeholder ? 'placeholder' : ''}">${item.placeholder ? 'Fittizio' : 'Confermato'}</span></td>
+      </tr>`).join('');
+    return `<article class="schedule-day"><h3>${esc(label)}</h3><div class="schedule-table-wrap"><table class="schedule-table"><thead><tr><th>Ora</th><th>Disciplina</th><th>Gara</th><th>Luogo</th><th>Stato</th></tr></thead><tbody>${rows}</tbody></table></div></article>`;
+  }).join('') : '<div class="empty-state"><h3>Nessun orario trovato</h3><p>Prova a cambiare ricerca o filtri.</p></div>';
+  $('#schedule').innerHTML = `
+    <div class="schedule-head">
+      <div>
+        <p class="eyebrow">Orari di gioco</p>
+        <h2>Calendario gare</h2>
+        <p class="muted">Gli orari sotto sono <strong>fittizi/placeholder</strong> dove non disponibili: servono come base ordinata da sostituire con il calendario ufficiale.</p>
+      </div>
+      <span class="badge">${filtered.length} eventi</span>
+    </div>
+    <div class="schedule-grid">${body}</div>`;
 }
 
 function renderAdmin() {

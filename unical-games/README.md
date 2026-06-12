@@ -1,39 +1,36 @@
-# Unical Games 2026 - sito tabelloni
+# Unical Games 2026 - sito statico
 
-Sito statico per pubblicare i tabelloni degli Unical Games 2026 su GitHub Pages.
+Sito pronto per GitHub Pages con:
 
-## Pubblicazione su GitHub Pages
+- tab principale **Tabelloni**;
+- tab **Orari di gioco** con calendario placeholder/modificabile;
+- tab **Formazioni**, con rose collegate alle squadre cliccabili nei tabelloni;
+- tab **Gestione risultati**, con modifica locale ed esportazione di `data.js`.
 
-1. Crea un repository GitHub.
-2. Carica questi file nella root del repository: `index.html`, `styles.css`, `app.js`, `data.js`.
-3. Vai in **Settings > Pages**.
-4. Seleziona **Deploy from a branch**, branch `main`, cartella `/root`.
-5. Dopo il deploy il sito sara disponibile all'indirizzo indicato da GitHub.
+## Pubblicazione in sottocartella
 
-## Come inserire i risultati
+Carica questi file nella cartella `unical-games/` del repository `gfolino.github.io`:
 
-1. Apri il sito pubblicato, oppure apri `index.html` in locale.
-2. Clicca **Modifica tabelloni**.
-3. Clicca una casella del tabellone, anche vuota.
-4. Inserisci il risultato nel formato consigliato, per esempio: `DESF (2-1)`.
-5. Le modifiche vengono salvate nel browser con `localStorage`.
-6. Quando vuoi pubblicarle per tutti, clicca **Esporta data.js**.
-7. Sostituisci il file `data.js` nel repository GitHub con quello scaricato.
-8. Fai commit: GitHub Pages aggiornera il sito.
+- `index.html`
+- `styles.css`
+- `app.js`
+- `data.js`
+- `README.md`
 
-## Backup e ripristino
+Il sito sarà disponibile su:
 
-- **Backup risultati** scarica solo le modifiche locali in JSON.
-- **Importa backup** ricarica quel JSON nello stesso sito/browser.
-- **Cancella locali** rimuove le modifiche salvate nel browser, senza toccare i file GitHub.
+```text
+https://gfolino.github.io/unical-games/
+```
 
-## Nota tecnica
+## Aggiornare risultati
 
-Il sito non usa backend, database o login. Questo lo rende compatibile con GitHub Pages, ma significa che la pubblicazione definitiva richiede la sostituzione del file `data.js` nel repository.
+Apri il tab **Gestione risultati**, attiva la modifica, inserisci i risultati, poi usa **Esporta data.js**. Sostituisci il file `data.js` nel repository e fai commit.
 
+## Aggiornare gli orari
 
-## Formazioni / rose squadre
+Gli orari inseriti nel tab **Orari di gioco** sono fittizi/placeholder. Per renderli ufficiali modifica l'array `schedule` nel file `data.js`, cambiando data, ora, disciplina, gara, squadre, luogo e `placeholder` da `true` a `false` quando l'orario è confermato.
 
-La sezione **Formazioni** include le rose DIMES estratte da `UnicalGames_DIMES.xlsx`. Le squadre presenti nei tabelloni sono cliccabili: cliccando su **DIMES** si apre direttamente la formazione DIMES, divisa per disciplina. Per privacy sono stati pubblicati solo i campi: **nome**, **cognome**, **categoria**. Telefono, genere, tesseramento, taglia, ruolo, note e altri campi non sono inclusi nel sito.
+## Privacy formazioni
 
-Per aggiungere altre squadre, prepara file analoghi e rigenera `data.js` mantenendo nel campo `rosters` solo nome, cognome e categoria.
+Nel file delle formazioni sono pubblicati solo nome, cognome e categoria. Gli altri dati personali non sono inclusi nel sito.

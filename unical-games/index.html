@@ -21,20 +21,38 @@
     </div>
   </header>
 
-  <nav class="toolbar">
+  <nav class="main-tabs" aria-label="Sezioni principali">
+    <button type="button" class="main-tab active" data-main-tab="tabelloni">Tabelloni</button>
+    <button type="button" class="main-tab" data-main-tab="orari">Orari di gioco</button>
+    <button type="button" class="main-tab" data-main-tab="formazioni">Formazioni</button>
+    <button type="button" class="main-tab" data-main-tab="gestione">Gestione risultati</button>
+  </nav>
+
+  <nav class="toolbar" id="filtersToolbar">
     <input id="search" placeholder="Cerca squadra, gara o disciplina..." aria-label="Cerca">
     <select id="discipline" aria-label="Disciplina"></select>
     <select id="stage" aria-label="Fase"></select>
     <button id="reset" type="button">Reset</button>
     <button id="editBtn" type="button">Modifica tabelloni</button>
-    <button id="adminJump" type="button">Gestione risultati</button>
-    <button id="rostersJump" type="button">Formazioni</button>
   </nav>
 
   <main>
     <section class="rules" id="rules"></section>
 
-    <section class="admin-panel" id="admin">
+    <section class="app-section active" id="tabelloni-panel">
+      <section id="cards" class="cards"></section>
+    </section>
+
+    <section class="app-section" id="orari-panel">
+      <section class="schedule-section" id="schedule"></section>
+    </section>
+
+    <section class="app-section" id="formazioni-panel">
+      <section class="rosters-section" id="rosters"></section>
+    </section>
+
+    <section class="app-section" id="gestione-panel">
+      <section class="admin-panel" id="admin">
       <div class="admin-head">
         <div>
           <p class="eyebrow">Gestione risultati</p>
@@ -57,11 +75,8 @@
           </table>
         </div>
       </details>
+      </section>
     </section>
-
-    <section class="rosters-section" id="rosters"></section>
-
-    <section id="cards" class="cards"></section>
   </main>
   <footer>Creato da dati Excel e regolamento Unical Games 2026. Pubblicabile come sito statico.</footer>
   <script src="data.js"></script>

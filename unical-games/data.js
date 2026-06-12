@@ -3908,5 +3908,327 @@ window.UNICAL_GAMES_DATA = {
       ]
     }
   ],
-  "rosterPrivacy": "Le rose pubbliche contengono solo nome, cognome e categoria; altri dati del modulo non sono inclusi."
+  "rosterPrivacy": "Le rose pubbliche contengono solo nome, cognome e categoria; altri dati del modulo non sono inclusi.",
+  "schedule": [
+    {
+      "data": "2026-06-08",
+      "ora": "17:00",
+      "disciplina": "Calcio",
+      "fase": "Golden",
+      "gara": "gara 4",
+      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1)",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "18:00",
+      "disciplina": "Calcio",
+      "fase": "Golden",
+      "gara": "gara 10",
+      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1)",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Golden",
+      "gara": "gara 1",
+      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1) vs DISPES vs DIMES",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "20:00",
+      "disciplina": "Calcio",
+      "fase": "Golden",
+      "gara": "gara 7",
+      "squadre": "DESF vs DIBEST vs DESF (9-0) vs DIMES (2-1) vs DISPES vs DIMES",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-12",
+      "ora": "21:00",
+      "disciplina": "Calcio",
+      "fase": "Silver",
+      "gara": "gara 17",
+      "squadre": "DISU",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "17:00",
+      "disciplina": "Calcio",
+      "fase": "Silver",
+      "gara": "gara 15",
+      "squadre": "DISU vs DIBEST",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "18:00",
+      "disciplina": "Calcio",
+      "fase": "Silver",
+      "gara": "gara 21",
+      "squadre": "DIBEST",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-17",
+      "ora": "19:00",
+      "disciplina": "Calcio",
+      "fase": "Silver",
+      "gara": "gara 18",
+      "squadre": "DISPES",
+      "luogo": "Campo Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-18",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden",
+      "gara": "gara 4",
+      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0)",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "21:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden",
+      "gara": "gara 10",
+      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0)",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "17:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden",
+      "gara": "gara 1",
+      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0) vs DIAM vs DIBEST",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "18:00",
+      "disciplina": "Pallavolo",
+      "fase": "Golden",
+      "gara": "gara 7",
+      "squadre": "DISU vs CTC vs DISU (2-0) vs DIBEST (2-0) vs DIAM vs DIBEST",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "19:00",
+      "disciplina": "Pallavolo",
+      "fase": "Silver",
+      "gara": "gara 17",
+      "squadre": "DISPES",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "20:00",
+      "disciplina": "Pallavolo",
+      "fase": "Silver",
+      "gara": "gara 15",
+      "squadre": "DISPES vs CTC",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-12",
+      "ora": "21:00",
+      "disciplina": "Pallavolo",
+      "fase": "Silver",
+      "gara": "gara 21",
+      "squadre": "CTC",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "17:00",
+      "disciplina": "Pallavolo",
+      "fase": "Silver",
+      "gara": "gara 18",
+      "squadre": "DIAM",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "18:00",
+      "disciplina": "Tennis",
+      "fase": "Golden",
+      "gara": "gara 2",
+      "squadre": "DINCI vs DFSSN",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-17",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Golden",
+      "gara": "gara 6",
+      "squadre": "DINCI vs DFSSN",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-18",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Golden",
+      "gara": "gara 4",
+      "squadre": "DIAM vs CTC",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "21:00",
+      "disciplina": "Tennis",
+      "fase": "Golden",
+      "gara": "gara 9",
+      "squadre": "DIAM vs CTC",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "17:00",
+      "disciplina": "Tennis",
+      "fase": "Silver",
+      "gara": "gara 13",
+      "squadre": "FISICA",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "18:00",
+      "disciplina": "Tennis",
+      "fase": "Silver",
+      "gara": "gara 11",
+      "squadre": "FISICA",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-10",
+      "ora": "19:00",
+      "disciplina": "Tennis",
+      "fase": "Silver",
+      "gara": "gara 15",
+      "squadre": "DEMACS",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-11",
+      "ora": "20:00",
+      "disciplina": "Tennis",
+      "fase": "Silver",
+      "gara": "gara 12",
+      "squadre": "DEMACS",
+      "luogo": "Campi Chiodo 2",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-12",
+      "ora": "21:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "gara 1",
+      "squadre": "DIMES vs DIAM vs DIAM vs FISICA vs DIMES vs FISICA",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-15",
+      "ora": "17:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "gara 2",
+      "squadre": "DIMES vs DIAM vs DIAM vs FISICA vs DIMES vs FISICA",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-16",
+      "ora": "18:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "gara 3",
+      "squadre": "DIAM vs FISICA vs DIMES vs FISICA vs DFSSN vs DIBEST",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-17",
+      "ora": "19:00",
+      "disciplina": "Pallacanestro",
+      "fase": "Gironi + finali",
+      "gara": "gara 4",
+      "squadre": "DIMES vs FISICA vs DFSSN vs DIBEST vs DIBEST vs DEMACS",
+      "luogo": "PalaCUS",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-18",
+      "ora": "20:00",
+      "disciplina": "Calcio balilla",
+      "fase": "Calendario",
+      "gara": "Partita",
+      "squadre": "CTC vs DICES vs CTC vs DICES vs DIBEST vs DICES",
+      "luogo": "Area giochi",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-19",
+      "ora": "21:00",
+      "disciplina": "Calcio balilla",
+      "fase": "Calendario",
+      "gara": "Semifinale 1",
+      "squadre": "Da definire",
+      "luogo": "Area giochi",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-08",
+      "ora": "17:00",
+      "disciplina": "Calcio balilla",
+      "fase": "Calendario",
+      "gara": "Semifinale 2",
+      "squadre": "Da definire",
+      "luogo": "Area giochi",
+      "placeholder": true
+    },
+    {
+      "data": "2026-06-09",
+      "ora": "18:00",
+      "disciplina": "Calcio balilla",
+      "fase": "Calendario",
+      "gara": "Finale 3°-4°",
+      "squadre": "Da definire",
+      "luogo": "Area giochi",
+      "placeholder": true
+    }
+  ]
 };
