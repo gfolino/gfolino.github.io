@@ -1,6 +1,6 @@
 const BASE_DATA = window.UNICAL_GAMES_DATA;
 const STORAGE_KEY = 'unical-games-2026-results-v2';
-const state = { q: '', discipline: 'all', stage: 'all', edit: false, view: 'site', selectedTeam: null, data: null, overrides: loadOverrides() };
+const state = { q: '', discipline: 'all', stage: 'all', edit: false, view: 'site', selectedTeam: null, selectedRosterDiscipline: null, data: null, overrides: loadOverrides() };
 const $ = s => document.querySelector(s);
 const norm = s => (s || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const cellKey = (sheetName, r, c) => `${sheetName}||${r}||${c}`;
@@ -29,6 +29,7 @@ function init() {
   document.addEventListener('click', e => {
     const btn = e.target.closest('[data-team-roster]');
     const all = e.target.closest('[data-show-all-rosters]');
+    const rosterTab = e.target.closest('[data-roster-tab]');
     if (btn) {
       e.preventDefault();
       e.stopPropagation();
@@ -38,6 +39,12 @@ function init() {
     if (all) {
       e.preventDefault();
       state.selectedTeam = null;
+      state.selectedRosterDiscipline = null;
+      renderRosters();
+    }
+    if (rosterTab) {
+      e.preventDefault();
+      state.selectedRosterDiscipline = rosterTab.dataset.rosterTab || null;
       renderRosters();
     }
   });
@@ -90,6 +97,7 @@ function resetFilters() {
 }
 function openTeamRoster(team) {
   state.selectedTeam = team;
+  state.selectedRosterDiscipline = null;
   renderRosters();
   document.getElementById('rosters').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -206,31 +214,73 @@ function editCell(sheetName, r, c) {
 
 function renderRosters() {
   const list = state.data.rosters || [];
-  const filtered = list.filter(r => {
-    if (state.selectedTeam && norm(r.squadra) !== norm(state.selectedTeam)) return false;
-    if (state.discipline !== 'all') {
-      const d = norm(state.discipline);
-      const rd = norm(r.disciplina);
-      if (!rd.includes(d) && !d.includes(rd.replace(' a 7', '')) && !(d === 'calcio' && rd.includes('calcio a 7'))) return false;
-    }
-    const hay = norm([r.squadra, r.disciplina, ...r.atleti.flatMap(a => [a.nome, a.cognome, a.categoria])].join(' '));
-    return !state.q || hay.includes(norm(state.q));
-  });
+  const allTeams = [...new Set(list.map(r => r.squadra))].sort((a, b) => a.localeCompare(b, 'it'));
   const total = list.reduce((sum, r) => sum + r.atleti.length, 0);
-  const title = state.selectedTeam ? `Formazione ${esc(state.selectedTeam)}` : 'Rose squadre';
-  const intro = state.selectedTeam
-    ? `Qui sotto trovi le formazioni caricate per <strong>${esc(state.selectedTeam)}</strong>, divise per disciplina.`
-    : `Clicca su una squadra nei tabelloni per aprire la sua formazione. Dati pubblicati: solo nome, cognome e categoria. Totale nominativi caricati: <strong>${total}</strong>.`;
-  const resetButton = state.selectedTeam ? `<button type="button" class="small" data-show-all-rosters="1">Mostra tutte le formazioni</button>` : '';
-  const body = filtered.length
-    ? `<div class="roster-grid">${filtered.map(renderRosterCard).join('')}</div>`
-    : `<article class="roster-card roster-empty"><h3>${esc(state.selectedTeam || 'Nessuna formazione')}</h3><p class="muted">Formazione non ancora caricata per questa squadra. Quando aggiungi un file di squadra, il collegamento dal tabellone iniziera a mostrare la rosa.</p></article>`;
-  $('#rosters').innerHTML = `<div class="section-head"><div><p class="eyebrow">Formazioni</p><h2>${title}</h2><p class="muted">${intro}</p></div><div>${resetButton}</div></div>${body}`;
+
+  if (state.selectedTeam) {
+    const teamRosters = list.filter(r => norm(r.squadra) === norm(state.selectedTeam));
+    const disciplines = teamRosters.map(r => r.disciplina);
+    const activeDiscipline = state.selectedRosterDiscipline && disciplines.includes(state.selectedRosterDiscipline)
+      ? state.selectedRosterDiscipline
+      : disciplines[0];
+    if (!state.selectedRosterDiscipline && activeDiscipline) state.selectedRosterDiscipline = activeDiscipline;
+    const activeRoster = teamRosters.find(r => r.disciplina === activeDiscipline);
+    const totalTeam = teamRosters.reduce((sum, r) => sum + r.atleti.length, 0);
+    const summary = teamRosters.map(r => `<button type="button" class="roster-pill ${r.disciplina === activeDiscipline ? 'active' : ''}" data-roster-tab="${esc(r.disciplina)}"><span>${esc(r.disciplina)}</span><strong>${r.atleti.length}</strong></button>`).join('');
+    const body = activeRoster
+      ? renderRosterDetail(activeRoster)
+      : `<div class="empty-state"><h3>Formazione non ancora caricata</h3><p>Per ${esc(state.selectedTeam)} non risultano file rosa collegati.</p></div>`;
+    $('#rosters').innerHTML = `
+      <section class="roster-shell focused-roster">
+        <div class="roster-hero">
+          <div>
+            <p class="eyebrow">Formazione squadra</p>
+            <h2>${esc(state.selectedTeam)}</h2>
+            <p class="muted">${teamRosters.length ? `${totalTeam} nominativi caricati, organizzati per disciplina. Dati pubblicati: solo nome, cognome e categoria.` : 'Nessuna formazione caricata per questa squadra.'}</p>
+          </div>
+          <button type="button" class="small ghost" data-show-all-rosters="1">Tutte le squadre</button>
+        </div>
+        ${teamRosters.length ? `<div class="roster-tabs" role="tablist" aria-label="Discipline formazione">${summary}</div>` : ''}
+        ${body}
+      </section>`;
+    return;
+  }
+
+  const filteredTeams = allTeams.filter(team => {
+    if (!state.q) return true;
+    const teamRows = list.filter(r => norm(r.squadra) === norm(team));
+    const hay = norm([team, ...teamRows.flatMap(r => [r.disciplina, ...r.atleti.flatMap(a => [a.nome, a.cognome, a.categoria])])].join(' '));
+    return hay.includes(norm(state.q));
+  });
+  const cards = filteredTeams.length
+    ? filteredTeams.map(team => renderTeamOverview(team, list.filter(r => norm(r.squadra) === norm(team)))).join('')
+    : `<div class="empty-state"><h3>Nessuna formazione trovata</h3><p>Clicca una squadra nei tabelloni o carica un nuovo file squadra in data.js.</p></div>`;
+  $('#rosters').innerHTML = `
+    <section class="roster-shell">
+      <div class="section-head roster-titlebar">
+        <div>
+          <p class="eyebrow">Formazioni</p>
+          <h2>Rose squadre</h2>
+          <p class="muted">Clicca una squadra nei tabelloni o aprila da qui. Dati pubblicati: solo nome, cognome e categoria. Totale nominativi caricati: <strong>${total}</strong>.</p>
+        </div>
+        <span class="badge">${allTeams.length} squadre con rosa</span>
+      </div>
+      <div class="team-overview-grid">${cards}</div>
+    </section>`;
+}
+function renderTeamOverview(team, rosters) {
+  const total = rosters.reduce((sum, r) => sum + r.atleti.length, 0);
+  const discs = rosters.map(r => `<span>${esc(r.disciplina)} <strong>${r.atleti.length}</strong></span>`).join('');
+  return `<article class="team-overview-card"><div class="team-avatar">${esc(team.slice(0, 3))}</div><div class="team-overview-body"><h3>${esc(team)}</h3><p class="muted">${total} nominativi · ${rosters.length} discipline</p><div class="discipline-chips">${discs}</div><button type="button" class="primary open-roster" data-team-roster="${esc(team)}">Apri formazione</button></div></article>`;
+}
+function renderRosterDetail(r) {
+  const categories = r.atleti.reduce((acc, a) => { acc[a.categoria] = (acc[a.categoria] || 0) + 1; return acc; }, {});
+  const stats = Object.entries(categories).map(([k, v]) => `<div class="stat-card"><span>${esc(k)}</span><strong>${v}</strong></div>`).join('');
+  const rows = r.atleti.map((a, i) => `<tr><td>${i + 1}</td><td><strong>${esc(a.cognome)}</strong></td><td>${esc(a.nome)}</td><td><span class="category-badge ${norm(a.categoria).includes('dip') ? 'employee' : 'student'}">${esc(a.categoria)}</span></td></tr>`).join('');
+  return `<article class="roster-detail"><div class="roster-detail-head"><div><h3>${esc(r.disciplina)}</h3><p class="muted">${r.atleti.length} persone nella rosa caricata.</p></div><div class="roster-stats"><div class="stat-card total"><span>Totale</span><strong>${r.atleti.length}</strong></div>${stats}</div></div><div class="roster-table-wrap"><table class="roster-table"><thead><tr><th>#</th><th>Cognome</th><th>Nome</th><th>Categoria</th></tr></thead><tbody>${rows}</tbody></table></div></article>`;
 }
 function renderRosterCard(r) {
-  const counts = r.atleti.reduce((acc, a) => { acc[a.categoria] = (acc[a.categoria] || 0) + 1; return acc; }, {});
-  const countText = Object.entries(counts).map(([k, v]) => `${esc(k)}: ${v}`).join(' · ');
-  return `<article class="roster-card"><div class="roster-head"><div><h3>${esc(r.squadra)} · ${esc(r.disciplina)}</h3><p class="muted">${r.atleti.length} persone · ${countText}</p></div></div><div class="roster-list">${r.atleti.map(a => `<div class="athlete"><span>${esc(a.nome)} ${esc(a.cognome)}</span><strong>${esc(a.categoria)}</strong></div>`).join('')}</div></article>`;
+  return renderRosterDetail(r);
 }
 
 function renderAdmin() {
