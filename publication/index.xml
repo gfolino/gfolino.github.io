@@ -76,6 +76,15 @@
     </item>
     
     <item>
+      <title>Efficiently approaching vertical federated learning by combining data reduction and conditional computation techniques</title>
+      <link>http://localhost:1313/publication/folino-2024-bis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/folino-2024-bis/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Towards Data- and Compute-Efficient Fake-News Detection: An Approach Combining Active Learning and Pre-Trained Language Models</title>
       <link>http://localhost:1313/publication/folino-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -179,6 +188,15 @@
       <link>http://localhost:1313/publication/folino-202148/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/folino-202148/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SDCOR: Scalable density-based clustering for local outlier detection in massive-scale datasets[Formula presented]</title>
+      <link>http://localhost:1313/publication/naghavi-nozad-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/naghavi-nozad-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

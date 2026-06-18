@@ -50,6 +50,10 @@
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/post/courses3/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/post/courses2/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,6 +83,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/folino-2024995/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/folino-2024-bis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -139,6 +147,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/folino-202148/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/naghavi-nozad-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
