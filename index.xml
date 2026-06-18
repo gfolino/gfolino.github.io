@@ -33,54 +33,9 @@
     </item>
     
     <item>
-      <title>Applying Multi-Objective Differential Evolution for IoT Application Design in the Edge-Cloud Continuum</title>
-      <link>http://localhost:1313/publication/folino-202595/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/folino-202595/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discovering ensembles of small language models out of scarcely labelled data for fake news detection</title>
-      <link>http://localhost:1313/publication/folino-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/folino-2025/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Explainable Process Deviance Discovery with Data-Efficient Deep Learning</title>
-      <link>http://localhost:1313/publication/folino-202579/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/folino-202579/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Self-Sovereign Identification of IoT Devices by Using Physically Unclonable Functions and Blockchain</title>
-      <link>http://localhost:1313/publication/folino-2025293/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/folino-2025293/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The force of few: boosting deviance detection in data scarcity scenarios through self-supervised learning and pattern-based encoding</title>
-      <link>http://localhost:1313/publication/folino-20253675/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/folino-20253675/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ambienti di Programmazione e Programmazione Mobile</title>
       <link>http://localhost:1313/post/courses/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/courses/</guid>
       <description>&lt;h2 id=&#34;obiettivi-del-corso&#34;&gt;OBIETTIVI DEL CORSO&lt;/h2&gt;
 &lt;ul&gt;
@@ -180,6 +135,51 @@ Sviluppare applicazioni con Flutter: Guida al framework e al linguaggio Dart per
 Stephen Prata, C Primer Plus (molto completo)  &lt;br&gt;
 &lt;a href=&#34;http://c.learncodethehardway.org/book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://c.learncodethehardway.org/book/&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;http://cslibrary.stanford.edu/101/EssentialC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cslibrary.stanford.edu/101/EssentialC.pdf&lt;/a&gt;  (bignami) &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applying Multi-Objective Differential Evolution for IoT Application Design in the Edge-Cloud Continuum</title>
+      <link>http://localhost:1313/publication/folino-202595/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/folino-202595/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovering ensembles of small language models out of scarcely labelled data for fake news detection</title>
+      <link>http://localhost:1313/publication/folino-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/folino-2025/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explainable Process Deviance Discovery with Data-Efficient Deep Learning</title>
+      <link>http://localhost:1313/publication/folino-202579/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/folino-202579/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Sovereign Identification of IoT Devices by Using Physically Unclonable Functions and Blockchain</title>
+      <link>http://localhost:1313/publication/folino-2025293/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/folino-2025293/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The force of few: boosting deviance detection in data scarcity scenarios through self-supervised learning and pattern-based encoding</title>
+      <link>http://localhost:1313/publication/folino-20253675/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/folino-20253675/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -752,7 +752,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-768154923&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-215684397&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -762,7 +762,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-768154923&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-215684397&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

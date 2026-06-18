@@ -46,10 +46,6 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/courses/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/courses3/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -572,6 +568,9 @@
   </url><url>
     <loc>http://localhost:1313/publication/folino-1998715/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/courses/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
